@@ -1,0 +1,817 @@
+MLS_id,Price,Beds,Baths,Sqft,Year_built,Location,Property_type,HOA,No_of_days_onsite
+ML81964272,"$2,998,888 ",4,3,"2,764",1986,"46097 Raindance Rd, Fremont,  CA 94539",Single Family Residence,420,1 Day on Site
+ML81964119,"$580,000 ",2,2,"1,125",1986,"3454 Bridgewood Ter #111,  Fremont,  CA 94536",Condominium,703,1 Day on Site
+BE41057198,"$1,588,000 ",4,2,"1,797",1965,"36163 Corsica, Fremont,  CA 94536",Single Family Residence,703,1 Day on Site
+BE41058557,"$699,888 ",2,2,"1,040",1991,"3695 Stevenson Blvd #211,  Fremont,  CA 94538",Condominium,418,1 Day on Site
+ML81964175,"$799,000 ",2,2,930,1987,"4875 Richland Ter, Fremont,  CA 94555",Townhouse,475,1 Day on Site
+SF424018892,"$988,000 ",3,3,"1,460",1987,"4690 Devonshire Cmn, Fremont,  CA 94536",Townhouse,406,1 Day on Site
+ML81964134,"$1,499,000 ",3,3,"1,537",1997,"4391 Rustica Cir, Fremont,  CA 94536",Single Family Residence,118,1 Day on Site
+BE41058069,"$1,650,000 ",4,3,"1,958",1963,"4644 Griffith Ave, Fremont,  CA 94538",Single Family Residence,118,2 Days on Site
+EB41058270,"$1,500,000 ",3,3,"1,439",1985,"35918 Vivian Pl, Fremont,  CA 94536",Single Family Residence,118,2 Days on Site
+BE41055318,"$1,275,000 ",3,3,"1,638",1997,"3592 Fitzsimmons Cmn, Fremont,  CA 94538",Townhouse,285,2 Days on Site
+BE41058361,"$686,000 ",2,2,926,1987,"47069 Benns Ter #33,  Fremont,  CA 94539",Condominium,415,2 Days on Site
+BE41057751,"$1,249,000 ",3,3,"1,514",1992,"5987 Pompei Ter #133,  Fremont,  CA 94555",Townhouse,250,2 Days on Site
+BE41056853,"$3,698,000 ",5,6,"4,791",1996,"1585 Vinehill Circle, Fremont,  CA 94539",Single Family Residence,1050,2 Days on Site
+EB41058301,"$1,699,000 ",3,2,"1,628",1963,"4950 Nelson St, Fremont,  CA 94538",Single Family Residence,1050,2 Days on Site
+BE41058338,"$1,450,000 ",4,2,"1,424",1961,"38811 Bonnie Way, Fremont,  CA 94536",Single Family Residence,1050,2 Days on Site
+BE41058254,"$1,599,000 ",2,2,"1,248",1969,"40995 Nunes Ct, Fremont,  CA 94539",Single Family Residence,1050,2 Days on Site
+ML81954553,"$799,000 ",2,3,"1,070",2016,"4058 Central Ave #401,  Fremont,  CA 94536",Condominium,527,2 Days on Site
+ML81964079,"$409,000 ",1,1,750,1970,"38455 Bronson St #224,  Fremont,  CA 94536",Condominium,548,2 Days on Site
+BE41058255,"$1,688,000 ",4,2,"1,340",1954,"3680 Yorktown Rd, Fremont,  CA 94538",Single Family Residence,548,2 Days on Site
+BE41056193,"$2,668,000 ",5,3,"2,453",2004,"41051 Rosewalk Ct, Fremont,  CA 94539",Single Family Residence,548,2 Days on Site
+SD240009570,"$15,000,000 ",–,–,–,–,", Fremont,  CA 94536",Land,548,2 Days on Site
+BE41058129,"$1,849,900 ",4,4,"1,822",1963,"48284 Arcadian St, Fremont,  CA 94539",Single Family Residence,548,2 Days on Site
+BE41058025,"$1,199,000 ",3,3,"1,431",2004,"49099 Woodgrove Cmn, Fremont,  CA 94539",Townhouse,310,3 Days on Site
+ML81963327,"$1,488,000 ",3,2,"1,232",1966,"4471 Lancero Ct, Fremont,  CA 94536",Single Family Residence,310,3 Days on Site
+BE41057508,"$1,699,000 ",3,2,"1,713",1981,"4567 Lodovico Ct, Fremont,  CA 94555",Single Family Residence,310,3 Days on Site
+BE41058017,"$1,588,000 ",3,2,"1,390",1971,"33832 Whitehead Ln, Fremont,  CA 94555",Single Family Residence,310,3 Days on Site
+BE41058120,"$2,139,950 ",4,3,"2,103",1959,"38737 Glenview Dr, Fremont,  CA 94536",Single Family Residence,360,3 Days on Site
+ML81963777,"$1,049,000 ",2,3,"1,400",1986,"38308 Redwood Ter, Fremont,  CA 94536",Townhouse,385,3 Days on Site
+BE41058021,"$145,000 ",2,2,"1,080",–,"711 Old Canyon Rd. #62,  Fremont,  CA 94536",Manufactured In Park,385,3 Days on Site
+BE41056577,"$589,989 ",2,2,990,1987,"3371 Baywood Ter #213,  Fremont,  CA 94536",Condominium,691,3 Days on Site
+BE41058033,"$579,000 ",2,2,981,1984,"3517 Birchwood Ter #203,  Fremont,  CA 94536",Condominium,691,3 Days on Site
+BE41058184,"$488,900 ",2,1,936,1985,"37311 Aspenwood Cmn #104,  Fremont,  CA 94536",Condominium,686,3 Days on Site
+BE41058013,"$2,400,000 ",–,–,"6,200",1950,"380 L St, Fremont,  CA 94536",Residential Income,686,3 Days on Site
+ML81963537,"$1,598,000 ",4,2,"1,882",1954,"36182 Magellan Dr, Fremont,  CA 94536",Single Family Residence,686,4 Days on Site
+BE41057917,"$1,500,000 ",4,3,"1,701",1963,"5030 Royal Palm Dr, Fremont,  CA 94538",Single Family Residence,686,4 Days on Site
+EB41057767,"$1,599,000 ",4,3,"1,656",1963,"42798 Deauville Park Ct, Fremont,  CA 94538",Single Family Residence,686,4 Days on Site
+BE41056501,"$1,175,000 ",3,2,"1,329",1970,"40117 Santa Teresa Cmn, Fremont,  CA 94539",Townhouse,290,4 Days on Site
+ML81963608,"$640,000 ",2,2,"1,146",1987,"39993 Fremont Blvd #209,  Fremont,  CA 94538",Condominium,661,4 Days on Site
+ML81963625,"$799,000 ",2,1,799,1929,"4073 Central Ave, Fremont,  CA 94536",Single Family Residence,661,4 Days on Site
+BE41057060,"$1,549,000 ",3,3,"1,460",1989,"156 Galway Ter, Fremont,  CA 94536",Single Family Residence,60,5 Days on Site
+CRDW24086073,"$2,600,000 ",4,3,"2,244",2005,"550 Enos St, Fremont,  CA 94539",Single Family Residence,0,6 Days on Site
+ML81960449,"$1,398,888 ",3,2,"1,439",1958,"42554 Charleston Way, Fremont,  CA 94538",Single Family Residence,0,6 Days on Site
+BE41057235,"$2,199,000 ",3,3,"1,840",1955,"4552 Grover Ct, Fremont,  CA 94536",Single Family Residence,30,7 Days on Site
+ML81963299,"$848,000 ",2,2,"1,124",2000,"38740 Tyson Ln 316b,  Fremont,  CA 94536",Condominium,510,7 Days on Site
+ML81963287,"$1,488,000 ",3,2,"1,505",2023,"43178 Cedarwood Dr, Fremont,  CA 94538",Single Family Residence,510,18 Days on Site
+BE41057705,"$224,000 ",3,2,"1,697",–,"4141 Deep Creek Rd. #162 #162,  Fremont,  CA 94555",Manufactured In Park,510,8 Days on Site
+ML81957147,"$699,999 ",2,1,878,1984,"275 Hackamore Cmn, Fremont,  CA 94539",Condominium,537,8 Days on Site
+ML81962123,"$3,995,000 ",5,4,"4,760",1979,"44544 Parkmeadow Dr, Fremont,  CA 94539",Single Family Residence,537,8 Days on Site
+CC41057456,"$999,888 ",3,3,"1,610",1994,"1288 Albacore Terrace, Fremont,  CA 94536",Condominium,252,9 Days on Site
+BE41055837,"$1,299,951 ",4,3,"1,578",1970,"780 Gallegos Ter, Fremont,  CA 94539",Townhouse,372,9 Days on Site
+BE41057433,"$489,000 ",2,1,936,1986,"3402 Pinewood Ter #311,  Fremont,  CA 94536",Condominium,684,9 Days on Site
+ML81922162,"$1,200,000 ",3,1,925,1956,"4418 Ladner St, Fremont,  CA 94538",Single Family Residence,684,9 Days on Site
+BE41057398,"$1,998,000 ",4,3,"2,774",1991,"38669 Dow Ct, Fremont,  CA 94536",Single Family Residence,684,9 Days on Site
+ME224042019,"$1,549,000 ",3,3,"1,607",–,"4735 Mendocino Terrace, Fremont,  CA 94555",Single Family Residence,90,9 Days on Site
+BE41057218,"$598,000 ",2,2,"1,050",1973,"4538 Merced Cmn, Fremont,  CA 94536",Condominium,588,10 Days on Site
+ML81961275,"$2,650,000 ",4,2,"1,962",1965,"42640 Palm Ave, Fremont,  CA 94539",Single Family Residence,588,10 Days on Site
+BE41057373,"$998,888 ",3,3,"1,316",1981,"40734 Chapel Way, Fremont,  CA 94538",Townhouse,385,10 Days on Site
+ML81961580,"$1,998,000 ",4,2,"1,960",1963,"39525 Plumas Ct, Fremont,  CA 94538",Single Family Residence,385,10 Days on Site
+CC41057225,"$1,890,000 ",4,2,"1,362",1980,"38 Burnham Place, Fremont,  CA 94539-3057",Single Family Residence,385,10 Days on Site
+BE41057326,"$595,000 ",2,2,981,1984,"3518 Knollwood Ter #204,  Fremont,  CA 94536",Condominium,690,10 Days on Site
+BE41057351,"$1,188,888 ",–,–,–,–,"35796 Mission Boulevard, Fremont,  CA 94536",Land,690,10 Days on Site
+BA324029513,"$1,729,000 ",4,2,"1,409",1977,"235 Mortimer Ave, Fremont,  CA 94536",Single Family Residence,690,11 Days on Site
+CC41057142,"$1,841,650 ",3,3,"2,580",2024,"2250 Kilowatt Way #401,  Fremont,  CA 94539",Condominium,700,11 Days on Site
+ML81962686,"$1,488,000 ",4,4,"2,242",2017,"34870 Sanctuary Ter, Fremont,  CA 94555",Townhouse,230,11 Days on Site
+ML81960403,"$418,000 ",1,1,693,1987,"39109 Guardino Dr #331,  Fremont,  CA 94538",Condominium,587,11 Days on Site
+ML81962419,"$1,380,000 ",3,2,"1,107",1956,"35981 Magellan Dr, Fremont,  CA 94536",Single Family Residence,587,12 Days on Site
+BE41056793,"$1,300,000 ",2,2,"1,405",1981,"34336 Gadwall Cmn, Fremont,  CA 94555",Single Family Residence,275,13 Days on Site
+BE41056801,"$1,249,999 ",3,1,"1,014",1959,"1259 Filton Ct, Fremont,  CA 94536",Single Family Residence,275,15 Days on Site
+BE41056653,"$574,900 ",2,2,"1,083",1985,"3509 Pepperwood Ter #205,  Fremont,  CA 94536",Condominium,699,16 Days on Site
+ML81960320,"$1,298,800 ",4,4,"1,845",2017,"4192 Central Ave, Fremont,  CA 94536",Townhouse,335,16 Days on Site
+BE41056677,"$670,000 ",2,2,942,1989,"37382 Parish Cir 18a,  Fremont,  CA 94536",Condominium,360,16 Days on Site
+ML81961901,"$625,000 ",2,2,"1,146",1987,"39993 Fremont Blvd #304,  Fremont,  CA 94538",Condominium,661,16 Days on Site
+BE41056549,"$449,000 ",1,1,674,1986,"4065 Abbey Ter #219,  Fremont,  CA 94536",Condominium,420,16 Days on Site
+BE41056517,"$995,000 ",2,2,"1,301",2019,"45128 Warm Springs Blvd #450,  Fremont,  CA 94539",Condominium,580,16 Days on Site
+BE41056539,"$1,570,000 ",3,3,"1,887",2019,"45249 Electric Ter #302,  Fremont,  CA 94539",Condominium,719,16 Days on Site
+BE41056380,"$449,950 ",1,1,693,1987,"39199 Guardino Dr #374,  Fremont,  CA 94538",Condominium,587,17 Days on Site
+BE41053780,"$1,075,000 ",3,3,"1,436",2017,"4161 Peralta Blvd, Fremont,  CA 94536",Condominium,288,17 Days on Site
+ML81961785,"$2,260,000 ",4,3,"2,376",1970,"35786 Augustine Ct, Fremont,  CA 94536",Single Family Residence,288,17 Days on Site
+BE41055860,"$1,058,000 ",3,3,"1,298",1985,"35615 Stowe Cmn, Fremont,  CA 94536",Townhouse,365,17 Days on Site
+BE41054682,"$1,680,000 ",4,3,"2,066",2002,"37622 Central Cove Ct, Fremont,  CA 94536",Single Family Residence,365,17 Days on Site
+BA324027002,"$269,999 ",2,2,"1,248",1981,"4141 Deep Creek Rd #146,  Fremont,  CA 94555",Manufactured Home,1216,18 Days on Site
+ML81961642,"$1,688,000 ",4,4,"2,100",2016,"3816 Fiano Cmn, Fremont,  CA 94555",Single Family Residence,151,18 Days on Site
+BE41056115,"$1,288,000 ",3,2,"1,107",1956,"35983 Cabral Dr, Fremont,  CA 94536",Single Family Residence,151,19 Days on Site
+BE41056048,"$449,000 ",1,1,693,1987,"39059 Guardino Dr #104,  Fremont,  CA 94538",Condominium,587,20 Days on Site
+ME224037377,"$2,499,000 ",–,–,"2,541",–,"3331 Union St, Fremont,  CA 94538",Triplex,0,20 Days on Site
+BE41055470,"$699,000 ",2,2,"1,040",1991,"3695 Stevenson #A143,  Fremont,  CA 94538-2371",Condominium,418,21 Days on Site
+BE41055998,"$1,887,000 ",4,3,"2,500",1962,"5112 Everglades Park Dr, Fremont,  CA 94538",Single Family Residence,418,21 Days on Site
+BE41055997,"$1,199,950 ",4,2,"1,444",1969,"33225 Lake Pyramid St, Fremont,  CA 94555",Single Family Residence,418,21 Days on Site
+ML81960617,"$699,888 ",2,2,"1,008",1972,"4510 Thornton Ave #3,  Fremont,  CA 94536",Townhouse,420,22 Days on Site
+ML81961170,"$1,250,000 ",3,2,"1,378",1951,"3770 Union St, Fremont,  CA 94538",Single Family Residence,420,22 Days on Site
+CC41058367,"$968,000 ",2,2,"1,505",1995,"5762 Belleza Dr, Pleasanton,  CA 94588",Townhouse,375,0 Days on Site
+CC41057455,"$3,395,000 ",4,4,"3,676",2015,"5825 Sycamore Court, Pleasanton,  CA 94566",Single Family Residence,118,0 Days on Site
+BE41058194,"$1,699,000 ",3,2,"1,619",1965,"641 Del Sol Avenue, Pleasanton,  CA 94566",Single Family Residence,118,0 Days on Site
+BE41058275,"$1,345,000 ",3,3,"1,383",1988,"2865 Whitney Dr, Pleasanton,  CA 94566",Single Family Residence,35,1 Day on Site
+BE41057959,"$898,888 ",3,2,"1,224",1971,"1493 Calle Enrique, Pleasanton,  CA 94566-5921",Townhouse,495,1 Day on Site
+BE41056570,"$1,399,000 ",3,2,"1,368",1965,"1699 Bivar Ct, Pleasanton,  CA 94566",Single Family Residence,495,1 Day on Site
+BE41056960,"$2,849,000 ",5,4,"3,563",1990,"2959 Victoria Meadow Ct, Pleasanton,  CA 94566",Single Family Residence,495,1 Day on Site
+BE41058300,"$2,200,000 ",4,3,"2,120",1971,"3565 Arbor Ct, Pleasanton,  CA 94566",Single Family Residence,495,1 Day on Site
+ML81964091,"$1,495,000 ",3,3,"1,762",1989,"7293 Valley Trails Dr, Pleasanton,  CA 94588",Single Family Residence,200,1 Day on Site
+BE41058230,"$1,750,000 ",4,2,"1,932",1971,"2746 Corte San Blas, Pleasanton,  CA 94566",Single Family Residence,423,1 Day on Site
+BE41058340,"$998,000 ",2,3,"1,438",1984,"4348 Valley Ave #D8,  Pleasanton,  CA 94566",Townhouse,480,1 Day on Site
+BE41058312,"$1,995,000 ",4,3,"2,110",1969,"2416 Sanderling Dr., Pleasanton,  CA 94566",Single Family Residence,480,1 Day on Site
+CC41057724,"$1,978,800 ",5,3,"2,378",1971,"2282 via Espada, Pleasanton,  CA 94566",Single Family Residence,480,1 Day on Site
+CC41058152,"$2,250,000 ",4,3,"2,357",1957,"4471 Linda Way, Pleasanton,  CA 94566",Single Family Residence,480,2 Days on Site
+BE41057892,"$1,850,000 ",4,2,"1,815",1976,"4837 Mohr Ave, Pleasanton,  CA 94566",Single Family Residence,480,2 Days on Site
+BE41058003,"$1,650,000 ",3,3,"1,658",1988,"3802 Kamp Dr, Pleasanton,  CA 94588",Single Family Residence,480,2 Days on Site
+ME224045034,"$1,650,000 ",4,2,"2,040",–,"3212 Touriga Dr, Pleasanton,  CA 94566",Single Family Residence,480,2 Days on Site
+BE41058068,"$1,680,000 ",4,3,"1,974",1968,"828 Bonita Ave, Pleasanton,  CA 94566",Single Family Residence,480,2 Days on Site
+BE41057963,"$669,000 ",2,2,"1,043",1991,"7615 Canyon Meadows Circle #UNIT G,  Pleasanton,  CA 94588",Condominium,649,3 Days on Site
+BE41057900,"$1,099,000 ",3,3,"1,761",1994,"5732 Belleza Dr, Pleasanton,  CA 94588",Townhouse,375,3 Days on Site
+ML81962391,"$1,988,000 ",4,3,"2,088",1970,"1260 Harvest Rd, Pleasanton,  CA 94566",Single Family Residence,375,3 Days on Site
+CC41057933,"$1,125,000 ",3,3,"1,454",1988,"7429 Stonedale Dr, Pleasanton,  CA 94588-0",Townhouse,400,3 Days on Site
+CC41057921,"$1,799,000 ",4,2,"1,951",1971,"4864 Ganner Ct, Pleasanton,  CA 94566",Single Family Residence,400,3 Days on Site
+BE41057948,"$278,000 ",2,2,"1,340",–,"3231 Vineyard Ave., #55 #55,  Pleasanton,  CA 94566",Manufactured In Park,400,3 Days on Site
+BE41057932,"$175,000 ",2,2,"1,050",–,"3263 Vineyard Ave #192,  Pleasanton,  CA 94566",Manufactured In Park,400,3 Days on Site
+BE41057923,"$519,000 ",3,2,"1,710",–,"3263 Vineyard Ave Spc 66,  Pleasanton,  CA 94566",Manufactured In Park,400,3 Days on Site
+EB41057592,"$570,000 ",2,1,903,1972,"2228 Segundo Court #1,  Pleasanton,  CA 94588-8114",Condominium,395,7 Days on Site
+BE41057550,"$1,425,000 ",3,4,"2,422",2017,"3496 Serra Cir, Pleasanton,  CA 94588-8594",Condominium,245,7 Days on Site
+BE41056586,"$2,398,000 ",4,3,"2,854",1983,"2428 via De Los Milagros, Pleasanton,  CA 94566",Single Family Residence,245,7 Days on Site
+ML81963099,"$1,399,000 ",3,2,"1,372",1973,"6896 Heath Ct, Pleasanton,  CA 94588",Single Family Residence,245,8 Days on Site
+BE41057507,"$1,375,000 ",3,2,"1,463",1954,"4135 Jensen St, Pleasanton,  CA 94566",Single Family Residence,245,8 Days on Site
+BE41057421,"$1,890,000 ",4,2,"1,956",1970,"3299 Runnymede Ct, Pleasanton,  CA 94588",Single Family Residence,435,8 Days on Site
+BE41055106,"$1,750,000 ",3,2,"1,800",1964,"1564 Greenwood Rd, Pleasanton,  CA 94566",Single Family Residence,435,8 Days on Site
+BE41057279,"$1,789,000 ",4,3,"2,330",1993,"3723 Rose Rock Cir, Pleasanton,  CA 94588",Single Family Residence,216,9 Days on Site
+CC41057130,"$3,999,995 ",5,6,"4,035",2024,"1189 Lund Ranch Road, Pleasanton,  CA 94566",Single Family Residence,203,10 Days on Site
+BE41056769,"$2,400,000 ",–,–,–,–,"3984 Foothill Rd, Pleasanton,  CA 94588",Land,203,14 Days on Site
+BE41056573,"$1,788,000 ",4,3,"2,150",1985,"3847 Cheshire Ct, Pleasanton,  CA 94588",Single Family Residence,435,15 Days on Site
+EB41056655,"$669,900 ",2,2,"1,043",1991,"8150 Mountain View Dr #B,  Pleasanton,  CA 94588",Condominium,649,15 Days on Site
+BE41055894,"$2,345,500 ",4,3,"4,050",2000,"141 Ray St, Pleasanton,  CA 94566",Single Family Residence,649,15 Days on Site
+BE41056307,"$3,395,000 ",5,5,"4,000",1997,"6016 Tillman Ct, Pleasanton,  CA 94588",Single Family Residence,190,15 Days on Site
+BE41056389,"$3,988,000 ",4,6,"4,894",1964,"34 Golf Rd, Pleasanton,  CA 94566",Single Family Residence,295,16 Days on Site
+BE41056406,"$1,450,000 ",3,3,"1,458",1994,"3864 Promenade Way, Pleasanton,  CA 94566",Single Family Residence,95,16 Days on Site
+BE41056378,"$1,749,000 ",4,3,"2,337",1975,"7580 Olive Dr, Pleasanton,  CA 94588",Single Family Residence,670,16 Days on Site
+BE41055902,"$4,533,300 ",5,5,"6,016",2006,"2193 Canosa Ct, Pleasanton,  CA 94566",Single Family Residence,295,21 Days on Site
+ML81942152,"$1,998,000 ",4,4,"2,456",1969,"3599 Carlsbad Ct, Pleasanton,  CA 94588",Single Family Residence,295,22 Days on Site
+BE41055797,"$449,000 ",1,1,681,1959,"829 Division St #C,  Pleasanton,  CA 94566",Condominium,710,22 Days on Site
+BE41052491,"$2,499,000 ",3,3,"2,517",1941,"406 Oak Lane, Pleasanton,  CA 94566",Single Family Residence,295,23 Days on Site
+BE41052801,"$1,099,000 ",3,3,"1,503",1994,"4268 Lucero Ct, Pleasanton,  CA 94588",Townhouse,279,23 Days on Site
+BE41054518,"$524,900 ",1,1,790,1991,"8015 Mountain View Dr #E,  Pleasanton,  CA 94588",Condominium,557,23 Days on Site
+BE41055230,"$1,799,000 ",4,4,"2,851",2016,"1571 Lexington Lane, Pleasanton,  CA 94566",Single Family Residence,284,24 Days on Site
+BE41054922,"$1,699,000 ",4,3,"1,942",1970,"893 Palomino Dr, Pleasanton,  CA 94566",Single Family Residence,284,29 Days on Site
+EB41054958,"$625,000 ",2,2,"1,028",1971,"3433 Norton Way #6,  Pleasanton,  CA 94566",Condominium,582,29 Days on Site
+BE41054776,"$210,000 ",2,2,"1,536",–,"3263 Vineyard Ave #43,  Pleasanton,  CA 94566",Manufactured In Park,582,29 Days on Site
+CC41053477,"$330,000 ",3,2,"1,308",–,"3263 Vineyard #85,  Pleasanton,  CA 94566",Manufactured In Park,582,30 Days on Site
+CC41053161,"$3,975,000 ",4,4,"3,455",1977,"777 Happy Valley Rd, Pleasanton,  CA 94566",Single Family Residence,582,44 Days on Site
+BE41052943,"$1,700,000 ",3,3,"1,910",2012,"3540 Felton Ter, Pleasanton,  CA 94566",Single Family Residence,285,49 Days on Site
+BE41052947,"$199,000 ",2,2,"1,040",–,"3231 Vineyard Ave. #20 #20,  Pleasanton,  CA 94566",Manufactured In Park,285,49 Days on Site
+BE41051469,"$349,888 ",3,2,"1,530",–,"3263 Vineyard Ave. #9,  Pleasanton,  CA 94566",Manufactured In Park,285,50 Days on Site
+CC41052540,"$3,888,800 ",5,5,"5,131",1990,"9904 Longview Ln, Pleasanton,  CA 94588",Single Family Residence,167,50 Days on Site
+ME224023435,"$5,250,000 ",5,5,"4,924",–,"5568 Serenity Terrace, Pleasanton,  CA 94588",Single Family Residence,94,51 Days on Site
+BE41056800,"$985,000 ",2,3,"1,424",2019,"8507 Leeward Way, Newark,  CA 94560",Condominium,383,1 Day on Site
+ML81964169,"$1,598,000 ",5,5,"2,886",2022,"37359 Watersail Way, Newark,  CA 94560",Single Family Residence,249,1 Day on Site
+BE41058243,"$1,349,000 ",4,2,"1,360",1962,"36509 Blackwood Dr, Newark,  CA 94560",Single Family Residence,249,2 Days on Site
+BE41058276,"$1,899,000 ",4,3,"2,553",2019,"8460 Peninsula Way, Newark,  CA 94560",Single Family Residence,120,2 Days on Site
+BE41058168,"$1,399,000 ",3,2,"1,329",1968,"5615 Wintergreen Dr, Newark,  CA 94560",Single Family Residence,120,3 Days on Site
+BE41058089,"$1,250,000 ",4,4,"2,109",2022,"37524 Bowline Road, Newark,  CA 94560",Condominium,492,3 Days on Site
+BE41058093,"$1,910,000 ",4,3,"2,512",2021,"8571 Tailwind Ave, Newark,  CA 94560",Single Family Residence,130,3 Days on Site
+BE41058088,"$1,398,000 ",4,2,"1,593",1975,"8182 Mayhews Landing Rd, Newark,  CA 94560",Single Family Residence,130,3 Days on Site
+ML81963681,"$898,000 ",3,1,942,1953,"6206 Mayhews Landing Rd, Newark,  CA 94560",Single Family Residence,130,9 Days on Site
+ML81963762,"$1,688,888 ",4,4,"2,289",2022,"9014 Surge Way, Newark,  CA 94560",Single Family Residence,249,3 Days on Site
+ML81963651,"$1,088,000 ",3,2,"1,406",1956,"5880 Mayhews Landing Rd, Newark,  CA 94560",Single Family Residence,249,4 Days on Site
+ML81963624,"$1,598,000 ",4,2,"1,908",1971,"36428 Blackwood Dr, Newark,  CA 94560",Single Family Residence,249,4 Days on Site
+ML81963159,"$1,249,888 ",3,3,"1,356",1971,"7806 Peachtree Ave, Newark,  CA 94560",Single Family Residence,249,8 Days on Site
+ML81963242,"$1,250,000 ",4,4,"1,829",2017,"37559 Cape Cod Rd, Newark,  CA 94560",Townhouse,388,8 Days on Site
+BE41057149,"$1,775,000 ",4,2,"2,265",1976,"8011 Del Monte Ave, Newark,  CA 94560",Single Family Residence,388,9 Days on Site
+BE41057228,"$1,199,000 ",3,2,"1,486",1962,"6888 Cabernet Ave, Newark,  CA 94560",Single Family Residence,388,10 Days on Site
+ML81962679,"$947,000 ",3,3,"1,456",1983,"6223 Joaquin Murieta Ave #B,  Newark,  CA 94560",Townhouse,515,11 Days on Site
+BE41056875,"$1,248,888 ",3,3,"1,950",1975,"35947 Tozier St, Newark,  CA 94560",Single Family Residence,67,14 Days on Site
+BE41056405,"$1,089,888 ",3,3,"1,622",2016,"38987 Primula Ter, Newark,  CA 94560",Condominium,300,16 Days on Site
+CRNDP2403267,"$595,000 ",2,1,905,1982,"6282 Joaquin Murieta #H,  Newark,  CA 94560",Condominium,560,19 Days on Site
+BE41056073,"$449,999 ",1,1,777,1986,"39821 Cedar Blvd #316,  Newark,  CA 94560",Condominium,494,20 Days on Site
+BE41055856,"$2,295,000 ",4,3,"2,767",1968,"5349 Stirling Ct, Newark,  CA 94560",Single Family Residence,494,22 Days on Site
+BE41055731,"$1,399,900 ",4,3,"1,720",1996,"39950 Potrero Dr, Newark,  CA 94560",Single Family Residence,231,23 Days on Site
+ML81961015,"$1,199,000 ",3,4,"1,707",2017,"5858 Vizcaino Way, Newark,  CA 94560",Condominium,250,23 Days on Site
+ML81960503,"$1,290,000 ",3,3,"1,752",1991,"6214 Potrero Dr, Newark,  CA 94560",Single Family Residence,231,24 Days on Site
+BE41055538,"$1,449,950 ",5,2,"1,882",1960,"35459 Cleremont Dr, Newark,  CA 94560",Single Family Residence,231,24 Days on Site
+BE41054727,"$1,498,000 ",4,4,"2,405",2016,"5573 Rosa Way, Newark,  CA 94560",Single Family Residence,203,31 Days on Site
+ME224030397,"$1,799,998 ",–,–,0,–,"37038 Locust St, Newark,  CA 94569",Triplex,0,36 Days on Site
+BE41054165,"$749,950 ",3,2,"1,488",1984,"6372 Buena Vista Dr #B,  Newark,  CA 94560",Condominium,422,37 Days on Site
+ML81958745,"$639,000 ",2,2,"1,071",1985,"39975 Cedar Blvd #242,  Newark,  CA 94560",Condominium,540,42 Days on Site
+ME224026537,"$499,900 ",1,1,731,–,"6378 Joaquin Murieta #D,  Newark,  CA 94560",Condominium,540,46 Days on Site
+BE41051644,"$499,000 ",1,1,802,1984,"35050 Lido Blvd #B,  Newark,  CA 94560",Condominium,485,54 Days on Site
+CC41051607,"$1,450,000 ",5,3,"2,073",1966,"36778 Hafner St, Newark,  CA 94560",Single Family Residence,485,63 Days on Site
+ME223108371,"$2,990,000 ",–,–,"2,384",1969,"5724 Thornton, Newark,  CA 94560",Commercial Sale,485,178 Days on Site
+BE41039512,"$3,795,000 ",–,–,"7,344",1964,"36976 Mulberry St, Newark,  CA 94560",Residential Income,485,229 Days on Site
+BE40780912,"$799,888 ",3,3,"1,627",1996,"39874 Potrero Dr, Newark,  CA 94560",Single Family Residence,171,2550 Days on Site
+BE41058416,"$1,499,998 ",4,3,"1,610",1964,"7546 Langmuir Ct, Dublin,  CA 94568",Single Family Residence,171,1 Day on Site
+BE41057887,"$2,649,888 ",4,4,"3,434",2019,"2858 Cathedral Rock Way, Dublin,  CA 94568",Single Family Residence,118,1 Day on Site
+ML81963897,"$1,999,800 ",4,3,"2,690",2003,"2707 Eagles Landing Ct, Dublin,  CA 94568",Single Family Residence,89,2 Days on Site
+CC41057836,"$1,638,000 ",5,3,"2,256",1962,"7700 San Sabana Ct, Dublin,  CA 94568",Single Family Residence,89,2 Days on Site
+ML81963917,"$1,350,000 ",3,3,"1,899",2022,"5720 Greige Cir #B,  Dublin,  CA 94568",Condominium,370,2 Days on Site
+EB41058050,"$1,199,888 ",3,2,"1,116",1960,"7843 Gardella Dr, Dublin,  CA 94568",Single Family Residence,370,3 Days on Site
+BE41057335,"$1,349,888 ",4,4,"2,097",2017,"4260 Midlands Ct, Dublin,  CA 94568",Condominium,338,3 Days on Site
+BE41058135,"$2,249,000 ",5,3,"3,081",2014,"6913 Syrah Dr, Dublin,  CA 94568",Single Family Residence,120,3 Days on Site
+BE41057986,"$1,120,000 ",3,3,"1,899",2020,"5821 Midnight Pl #G,  Dublin,  CA 94568",Condominium,364,4 Days on Site
+BE41057841,"$1,788,000 ",4,3,"2,214",2015,"4420 Sunset View Dr, Dublin,  CA 94568",Single Family Residence,103,4 Days on Site
+BE41057049,"$2,188,000 ",5,3,"2,590",2013,"2625 Whitehorse Way, Dublin,  CA 94568",Single Family Residence,118,4 Days on Site
+ML81961873,"$2,190,000 ",4,3,"2,692",2013,"4787 N Spago Dr, Dublin,  CA 94568",Single Family Residence,125,4 Days on Site
+BE41057925,"$1,995,000 ",4,3,"2,697",1997,"11239 Bay Laurel St, Dublin,  CA 94568",Single Family Residence,100,4 Days on Site
+BE41057545,"$1,650,000 ",4,3,"2,168",1988,"8011 Iglesia Dr, Dublin,  CA 94568",Single Family Residence,100,5 Days on Site
+ME224042382,"$1,400,000 ",6,3,"1,833",–,"6942 Brighton Dr, Dublin,  CA 94568",Single Family Residence,100,9 Days on Site
+ML81963007,"$864,888 ",3,2,"1,234",2007,"5501 De Marcus Blvd #420,  Dublin,  CA 94568",Condominium,507,9 Days on Site
+BE41056261,"$1,099,888 ",3,3,"1,727",2013,"6933 Mariposa Cir, Dublin,  CA 94568",Condominium,245,10 Days on Site
+BE41054454,"$865,000 ",2,3,"1,225",1986,"6607 Pioneer Ln #5,  Dublin,  CA 94568",Townhouse,429,12 Days on Site
+BE41056069,"$1,999,888 ",4,3,"2,902",2000,"4372 Roscommon Way, Dublin,  CA 94568",Single Family Residence,429,12 Days on Site
+BE41056782,"$849,999 ",2,3,"1,298",2004,"3240 Maguire Way #424,  Dublin,  CA 94568",Condominium,437,14 Days on Site
+ML81962281,"$1,098,000 ",4,3,"2,112",2005,"3697 Whitworth Dr, Dublin,  CA 94568",Townhouse,250,9 Days on Site
+BE41056684,"$1,349,000 ",4,4,"2,097",2018,"4006 Scottfield St, Dublin,  CA 94568",Condominium,340,16 Days on Site
+BE41056419,"$898,500 ",3,3,"1,300",1986,"6516 Amador Valley Blvd, Dublin,  CA 94568",Townhouse,450,17 Days on Site
+ML81958730,"$1,150,000 ",3,3,"1,593",2014,"3674 Branding Iron Pl, Dublin,  CA 94568",Condominium,328,17 Days on Site
+CC41056371,"$929,900 ",3,3,"1,383",1990,"7405 Oxford Cir, Dublin,  CA 94568",Condominium,415,17 Days on Site
+BE41055974,"$1,849,888 ",4,3,"2,214",2015,"4322 Sunset View Dr, Dublin,  CA 94568",Single Family Residence,103,18 Days on Site
+BE41055564,"$2,899,000 ",4,5,"4,087",2015,"5008 Volterra Ct, Dublin,  CA 94568",Single Family Residence,125,23 Days on Site
+BE41055674,"$1,388,889 ",3,2,"1,620",1960,"8254 Vomac Rd, Dublin,  CA 94568",Single Family Residence,125,23 Days on Site
+ML81960570,"$1,980,000 ",5,4,"2,620",2014,"2973 Vittoria Loop, Dublin,  CA 94568",Single Family Residence,220,26 Days on Site
+BE41054883,"$625,000 ",2,2,732,1987,"7619 Arbor Creek Cir, Dublin,  CA 94568",Condominium,330,30 Days on Site
+BE41055019,"$1,728,000 ",4,4,"1,984",2016,"4280 Panorama Dr, Dublin,  CA 94568",Single Family Residence,110,30 Days on Site
+CC41054731,"$434,000 ",1,1,669,1970,"7323 Starward Drive #14,  Dublin,  CA 94568",Condominium,403,31 Days on Site
+BE41054349,"$1,029,000 ",2,3,"1,566",1989,"7404 Rolling Hills Cir, Dublin,  CA 94568",Townhouse,405,33 Days on Site
+BE41052162,"$1,860,680 ",4,3,"2,956",1999,"7960 Creekside Dr, Dublin,  CA 94568",Single Family Residence,297,57 Days on Site
+BE41038077,"$299,998 ",–,–,"7,200",–,", Dublin,  CA 94568",Business Opportunity,297,242 Days on Site
+ME222108736,"$1,450,000 ",4,3,"2,250",2004,"4585 Brannigan St, Dublin,  CA 94568",Condominium,250,627 Days on Site
+CC41058579,"$1,199,000 ",3,2,"1,584",1959,"1738 Indian Way, Oakland,  CA 94611",Single Family Residence,0,0 Days on Site
+BA324033480,"$1,249,000 ",4,3,"2,108",1972,"6999 Exeter Dr, Oakland,  CA 94611",Single Family Residence,0,0 Days on Site
+EB41058497,"$560,000 ",1,1,713,1974,"5335 Broadway Terrace #303,  Oakland,  CA 94618-1406",Condominium,506,1 Day on Site
+EB41058561,"$1,500,000 ",6,4,"3,771",1914,"850 Calmar Ave, Oakland,  CA 94610",Single Family Residence,506,1 Day on Site
+BE41058566,"$1,095,000 ",4,4,"2,069",1968,"6555 Girvin, Oakland,  CA 94611-1627",Single Family Residence,506,1 Day on Site
+BE41058568,"$220,000 ",–,–,–,–,"1636 13th Ave, Oakland,  CA 94606",Land,506,1 Day on Site
+SF424030133,"$649,000 ",2,2,995,1947,"1427 102nd Ave, Oakland,  CA 94603",Single Family Residence,506,1 Day on Site
+EB41058433,"$795,000 ",3,2,"1,009",1925,"5440 Brookdale Ave, Oakland,  CA 94619",Single Family Residence,506,1 Day on Site
+BE41058558,"$550,000 ",3,2,"1,103",1920,"3140 E 27th St, Oakland,  CA 94601",Single Family Residence,506,1 Day on Site
+BE41058556,"$888,888 ",3,2,"1,532",1940,"7501 Sunkist Drive, Oakland,  CA 94605",Single Family Residence,506,1 Day on Site
+EB41058482,"$878,000 ",2,1,"1,000",1922,"1088 53rd St, Oakland,  CA 94608",Single Family Residence,506,1 Day on Site
+BE41058434,"$349,000 ",1,1,622,1971,"551 Jean St #411,  Oakland,  CA 94610",Condominium,583,1 Day on Site
+EB41058519,"$459,000 ",1,1,621,1971,"199 Montecito Ave #108,  Oakland,  CA 94610",Condominium,456,1 Day on Site
+EB41057759,"$1,649,000 ",4,2,"2,119",1924,"1021 Sunnyhills Rd, Oakland,  CA 94610",Single Family Residence,272,1 Day on Site
+EB41058517,"$512,500 ",1,1,666,2001,"1 Lakeside Dr #616,  Oakland,  CA 94612",Condominium,781,1 Day on Site
+BE41058501,"$899,000 ",–,–,"1,938",1924,"630 Alma Ave, Oakland,  CA 94610",Duplex,781,1 Day on Site
+BE41058502,"$899,000 ",3,2,"1,938",1924,"630 Alma Ave, Oakland,  CA 94610",Single Family Residence,781,1 Day on Site
+EB41058468,"$949,000 ",2,2,"1,503",1927,"3233 Ardley Ave, Oakland,  CA 94602",Single Family Residence,781,1 Day on Site
+EB41057969,"$945,000 ",2,1,"1,187",1926,"3142 Wisconsin, Oakland,  CA 94602",Single Family Residence,781,1 Day on Site
+BA324032996,"$950,000 ",–,–,"2,558",1918,"1310 31st Ave, Oakland,  CA 94601",Triplex,0,1 Day on Site
+BA324033388,"$550,000 ",1,1,740,2001,"1 Lakeside Dr #206,  Oakland,  CA 94612",Condominium,857,1 Day on Site
+EB41058415,"$499,000 ",1,1,815,1986,"460 Canyon Oaks Dr #G,  Oakland,  CA 94605",Condominium,578,1 Day on Site
+BE41058368,"$625,000 ",3,2,"1,177",2002,"2453 Palmvilla Ct, Oakland,  CA 94605",Single Family Residence,100,1 Day on Site
+BE41058471,"$359,000 ",1,1,546,1968,"455 Crescent St #212,  Oakland,  CA 94610",Condominium,621,1 Day on Site
+BE41058455,"$1,297,000 ",3,3,"3,104",1968,"6750 Pinehaven Rd, Oakland,  CA 94611",Single Family Residence,621,1 Day on Site
+EB41058389,"$499,000 ",2,2,"1,123",1986,"475 Canyon Oaks Dr #APT C,  Oakland,  CA 94605",Condominium,659,1 Day on Site
+BE41058436,"$650,000 ",2,1,829,1924,"2038 E East 28th Street, Oakland,  CA 94606",Single Family Residence,659,1 Day on Site
+BE41058429,"$460,000 ",2,1,983,2003,"850 W Grand Ave #B,  Oakland,  CA 94607",Condominium,468,1 Day on Site
+SF424029652,"$495,000 ",3,2,"1,404",0,"10660 Acalanes Dr, Oakland,  CA 94603",Single Family Residence,468,1 Day on Site
+EB41057976,"$899,000 ",2,1,"1,144",1938,"4672 Fair Ave, Oakland,  CA 94619",Single Family Residence,468,1 Day on Site
+BE41058359,"$325,000 ",1,1,585,1976,"801 Franklin St #509,  Oakland,  CA 94607",Condominium,385,1 Day on Site
+EB41058381,"$499,000 ",1,1,902,2008,"423 7th Street #314,  Oakland,  CA 94607",Condominium,539,1 Day on Site
+BA324032862,"$499,000 ",3,2,"2,212",1960,"3069 Malcolm Ave, Oakland,  CA 94605",Single Family Residence,539,2 Days on Site
+BE41058240,"$649,000 ",2,1,829,1926,"3229 Deering Street, Oakland,  CA 94601",Single Family Residence,539,2 Days on Site
+BE41058282,"$849,000 ",–,–,"3,722",1912,"3619 Brown Ave, Oakland,  CA 94619",Residential Income,539,2 Days on Site
+EB41058306,"$1,525,000 ",4,3,"3,611",2012,"6585 Oakwood Drive, Oakland,  CA 94611",Single Family Residence,539,2 Days on Site
+EB41058318,"$448,000 ",1,1,959,1971,"303 Adams St #102,  Oakland,  CA 94610",Condominium,501,2 Days on Site
+EB41058257,"$675,000 ",2,1,"1,116",1929,"4981 Fairfax Ave, Oakland,  CA 94601",Single Family Residence,501,2 Days on Site
+ML81949831,"$899,000 ",–,–,"3,632",1960,"9715 Walnut St, Oakland,  CA 94603",Residential Income,501,2 Days on Site
+BE41057844,"$1,098,000 ",3,3,"1,725",1922,"466 Valle Vista Ave, Oakland,  CA 94610",Single Family Residence,501,2 Days on Site
+BE41057054,"$998,000 ",3,2,"1,654",1908,"2927 Harrison St, Oakland,  CA 94611",Single Family Residence,501,2 Days on Site
+BE41058274,"$899,000 ",4,2,"1,807",1930,"9332 Granada Ave, Oakland,  CA 94605",Single Family Residence,501,2 Days on Site
+EB41058328,"$1,795,000 ",4,3,"2,660",1970,"6145 Castle Drive, Oakland,  CA 94611",Single Family Residence,501,2 Days on Site
+EB41058365,"$399,000 ",1,1,810,1976,"801 Franklin Street #516,  Oakland,  CA 94607",Condominium,567,2 Days on Site
+CC41057716,"$1,750,000 ",3,3,"2,441",1904,"610 Vernon St, Oakland,  CA 94610",Single Family Residence,567,2 Days on Site
+CC41058309,"$1,400,000 ",4,3,"2,704",1998,"11 Bay Forest Pl, Oakland,  CA 94611",Single Family Residence,322,2 Days on Site
+EB41058335,"$899,000 ",4,3,"2,386",1920,"516 Zorah Street, Oakland,  CA 94606",Single Family Residence,322,2 Days on Site
+EB41058211,"$849,000 ",2,2,"1,170",1923,"3069 California St, Oakland,  CA 94602-3907",Single Family Residence,322,2 Days on Site
+BE41058315,"$949,950 ",–,–,"3,692",1959,"1806 41st Ave, Oakland,  CA 94601",Residential Income,322,2 Days on Site
+SF424029169,"$1,295,000 ",3,2,"2,192",1939,"1900 Leimert Blvd, Oakland,  CA 94602",Single Family Residence,322,2 Days on Site
+BE41058302,"$915,000 ",3,3,"1,636",1941,"324 Marlow Dr, Oakland,  CA 94605",Single Family Residence,105,2 Days on Site
+BE41058293,"$885,000 ",2,2,"1,024",1924,"2440 Wilbur, Oakland,  CA 94602-3027",Single Family Residence,105,2 Days on Site
+BE41058249,"$799,888 ",2,1,"1,374",1919,"5401 Princeton St, Oakland,  CA 94601",Single Family Residence,105,2 Days on Site
+EB41056144,"$1,495,000 ",3,3,"2,835",1930,"1850 Woodhaven Way, Oakland,  CA 94611",Single Family Residence,105,2 Days on Site
+CC41058208,"$1,898,000 ",3,3,"2,431",1993,"5744 Buena Vista Ave, Oakland,  CA 94618",Single Family Residence,105,2 Days on Site
+EB41058280,"$898,000 ",3,2,"1,975",1915,"5715 Fleming Ave, Oakland,  CA 94605",Single Family Residence,105,2 Days on Site
+EB41058227,"$599,000 ",3,1,950,1900,"1921 E 25th St, Oakland,  CA 94606",Single Family Residence,105,2 Days on Site
+BA324032833,"$1,100,000 ",3,2,"1,792",1955,"4701 Dunkirk Ave, Oakland,  CA 94605",Single Family Residence,105,2 Days on Site
+EB41058233,"$700,000 ",2,1,"1,385",1940,"2820 High St, Oakland,  CA 94619",Single Family Residence,105,2 Days on Site
+ML81963379,"$599,888 ",2,2,"1,311",1965,"1555 Lakeside Dr #103,  Oakland,  CA 94612",Condominium,1275,2 Days on Site
+BA324032427,"$380,000 ",2,1,740,1923,"2126 Seminary Ave, Oakland,  CA 94621",Single Family Residence,1275,2 Days on Site
+BE41058066,"$778,000 ",2,1,870,1924,"978 63rd St, Oakland,  CA 94608",Single Family Residence,1275,3 Days on Site
+EB41058174,"$649,000 ",2,2,"1,130",2008,"890 20th Street, Oakland,  CA 94607",Townhouse,385,3 Days on Site
+ML81963883,"$650,000 ",2,1,761,1924,"2939 60th Ave, Oakland,  CA 94605",Single Family Residence,385,3 Days on Site
+EB41058087,"$649,000 ",2,2,"1,220",1941,"9341 Lawlor St, Oakland,  CA 94605",Single Family Residence,385,3 Days on Site
+EB41058106,"$998,000 ",3,2,"1,616",1930,"4237 Detroit Ave, Oakland,  CA 94619",Single Family Residence,385,3 Days on Site
+EB41058122,"$437,000 ",2,2,"1,301",2002,"1592 Chandler St #136,  Oakland,  CA 94603",Condominium,430,3 Days on Site
+EB41058098,"$735,000 ",3,2,"2,570",1890,"1418 8th St, Oakland,  CA 94607",Single Family Residence,430,3 Days on Site
+EB41058059,"$1,300,000 ",–,–,"3,288",1986,"3501 Richmond Blvd, Oakland,  CA 94611",Residential Income,430,3 Days on Site
+EB41058058,"$600,000 ",–,–,"2,649",1908,"2465 Foothill Blvd, Oakland,  CA 94601",Residential Income,430,3 Days on Site
+ML81963847,"$545,900 ",2,1,672,1912,"1515 15th Ave, Oakland,  CA 94606",Single Family Residence,430,3 Days on Site
+EB41058051,"$749,000 ",2,2,"1,768",2004,"2882 Helen St, Oakland,  CA 94608",Condominium,175,3 Days on Site
+EB41058076,"$540,000 ",2,2,"1,142",1924,"1731 67th Ave, Oakland,  CA 94621",Single Family Residence,175,3 Days on Site
+CC41058197,"$800,000 ",4,2,"1,904",1889,"1084 18th St, Oakland,  CA 94607",Single Family Residence,175,3 Days on Site
+SF424024241,"$449,000 ",2,1,"1,271",1956,"530 E 8th St #105,  Oakland,  CA 94606",Condominium,540,3 Days on Site
+EB41058075,"$1,550,000 ",3,2,"1,700",1925,"718 Mckinley Ave, Oakland,  CA 94610",Single Family Residence,540,3 Days on Site
+BE41058101,"$1,380,000 ",4,2,"2,193",1963,"11165 Lochard St, Oakland,  CA 94605",Single Family Residence,200,3 Days on Site
+BE41057002,"$1,788,000 ",5,5,"2,748",1923,"5924 Whitney St, Oakland,  CA 94609",Single Family Residence,200,3 Days on Site
+EB41058111,"$1,049,000 ",3,3,"2,237",1974,"4518 Mattis Ct, Oakland,  CA 94619",Single Family Residence,200,3 Days on Site
+BE41058155,"$1,495,000 ",3,3,"2,289",1915,"573 Kenmore Ave, Oakland,  CA 94610",Single Family Residence,200,3 Days on Site
+CC41058179,"$3,195,000 ",5,4,"3,130",1925,"6011 Rockridge Blvd, Oakland,  CA 94618",Single Family Residence,200,3 Days on Site
+EB41058172,"$1,275,000 ",4,3,"2,200",1890,"667 46th St, Oakland,  CA 94609",Single Family Residence,200,3 Days on Site
+EB41058091,"$3,495,000 ",5,4,"3,275",1991,"100 Alpine Ter, Oakland,  CA 94618",Single Family Residence,200,3 Days on Site
+EB41058114,"$1,599,000 ",–,–,"5,453",1963,"3300 Brookdale Ave, Oakland,  CA 94602",Residential Income,200,3 Days on Site
+ML81963813,"$698,000 ",6,4,"2,271",1910,"863 35th St, Oakland,  CA 94608",Single Family Residence,200,3 Days on Site
+CC41057221,"$760,000 ",2,1,"1,180",1910,"838 46th St, Oakland,  CA 94608",Single Family Residence,200,3 Days on Site
+EB41058061,"$2,998,000 ",5,4,"4,122",1994,"6351 Fairlane Dr, Oakland,  CA 94611",Single Family Residence,200,3 Days on Site
+BE41058030,"$429,000 ",1,1,750,1966,"398 Adams St #204,  Oakland,  CA 94610",Condominium,630,3 Days on Site
+BE41057996,"$445,000 ",1,1,839,2005,"2933 Mcclure St #8,  Oakland,  CA 94609",Condominium,520,3 Days on Site
+CC41056845,"$1,295,000 ",2,2,"1,839",1915,"459 Rich St., Oakland,  CA 94609",Single Family Residence,520,4 Days on Site
+CC41058367,"$968,000 ",2,2,"1,505",1995,"5762 Belleza Dr, Pleasanton,  CA 94588",Townhouse,375,0 Days on Site
+CC41057455,"$3,395,000 ",4,4,"3,676",2015,"5825 Sycamore Court, Pleasanton,  CA 94566",Single Family Residence,118,0 Days on Site
+BE41058194,"$1,699,000 ",3,2,"1,619",1965,"641 Del Sol Avenue, Pleasanton,  CA 94566",Single Family Residence,118,0 Days on Site
+BE41058275,"$1,345,000 ",3,3,"1,383",1988,"2865 Whitney Dr, Pleasanton,  CA 94566",Single Family Residence,35,1 Day on Site
+BE41057959,"$898,888 ",3,2,"1,224",1971,"1493 Calle Enrique, Pleasanton,  CA 94566-5921",Townhouse,495,1 Day on Site
+BE41056570,"$1,399,000 ",3,2,"1,368",1965,"1699 Bivar Ct, Pleasanton,  CA 94566",Single Family Residence,495,1 Day on Site
+BE41056960,"$2,849,000 ",5,4,"3,563",1990,"2959 Victoria Meadow Ct, Pleasanton,  CA 94566",Single Family Residence,495,1 Day on Site
+BE41058300,"$2,200,000 ",4,3,"2,120",1971,"3565 Arbor Ct, Pleasanton,  CA 94566",Single Family Residence,495,1 Day on Site
+ML81964091,"$1,495,000 ",3,3,"1,762",1989,"7293 Valley Trails Dr, Pleasanton,  CA 94588",Single Family Residence,200,1 Day on Site
+BE41058230,"$1,750,000 ",4,2,"1,932",1971,"2746 Corte San Blas, Pleasanton,  CA 94566",Single Family Residence,423,1 Day on Site
+BE41058340,"$998,000 ",2,3,"1,438",1984,"4348 Valley Ave #D8,  Pleasanton,  CA 94566",Townhouse,480,1 Day on Site
+BE41058312,"$1,995,000 ",4,3,"2,110",1969,"2416 Sanderling Dr., Pleasanton,  CA 94566",Single Family Residence,480,1 Day on Site
+CC41057724,"$1,978,800 ",5,3,"2,378",1971,"2282 via Espada, Pleasanton,  CA 94566",Single Family Residence,480,1 Day on Site
+CC41058152,"$2,250,000 ",4,3,"2,357",1957,"4471 Linda Way, Pleasanton,  CA 94566",Single Family Residence,480,2 Days on Site
+BE41057892,"$1,850,000 ",4,2,"1,815",1976,"4837 Mohr Ave, Pleasanton,  CA 94566",Single Family Residence,480,2 Days on Site
+BE41058003,"$1,650,000 ",3,3,"1,658",1988,"3802 Kamp Dr, Pleasanton,  CA 94588",Single Family Residence,480,2 Days on Site
+ME224045034,"$1,650,000 ",4,2,"2,040",–,"3212 Touriga Dr, Pleasanton,  CA 94566",Single Family Residence,480,2 Days on Site
+BE41058068,"$1,680,000 ",4,3,"1,974",1968,"828 Bonita Ave, Pleasanton,  CA 94566",Single Family Residence,480,2 Days on Site
+BE41057963,"$669,000 ",2,2,"1,043",1991,"7615 Canyon Meadows Circle #UNIT G,  Pleasanton,  CA 94588",Condominium,649,3 Days on Site
+BE41057900,"$1,099,000 ",3,3,"1,761",1994,"5732 Belleza Dr, Pleasanton,  CA 94588",Townhouse,375,3 Days on Site
+ML81962391,"$1,988,000 ",4,3,"2,088",1970,"1260 Harvest Rd, Pleasanton,  CA 94566",Single Family Residence,375,3 Days on Site
+CC41057933,"$1,125,000 ",3,3,"1,454",1988,"7429 Stonedale Dr, Pleasanton,  CA 94588-0",Townhouse,400,3 Days on Site
+CC41057921,"$1,799,000 ",4,2,"1,951",1971,"4864 Ganner Ct, Pleasanton,  CA 94566",Single Family Residence,400,3 Days on Site
+BE41057948,"$278,000 ",2,2,"1,340",–,"3231 Vineyard Ave., #55 #55,  Pleasanton,  CA 94566",Manufactured In Park,400,3 Days on Site
+BE41057932,"$175,000 ",2,2,"1,050",–,"3263 Vineyard Ave #192,  Pleasanton,  CA 94566",Manufactured In Park,400,3 Days on Site
+BE41057923,"$519,000 ",3,2,"1,710",–,"3263 Vineyard Ave Spc 66,  Pleasanton,  CA 94566",Manufactured In Park,400,3 Days on Site
+EB41057592,"$570,000 ",2,1,903,1972,"2228 Segundo Court #1,  Pleasanton,  CA 94588-8114",Condominium,395,7 Days on Site
+BE41057550,"$1,425,000 ",3,4,"2,422",2017,"3496 Serra Cir, Pleasanton,  CA 94588-8594",Condominium,245,7 Days on Site
+BE41056586,"$2,398,000 ",4,3,"2,854",1983,"2428 via De Los Milagros, Pleasanton,  CA 94566",Single Family Residence,245,7 Days on Site
+ML81963099,"$1,399,000 ",3,2,"1,372",1973,"6896 Heath Ct, Pleasanton,  CA 94588",Single Family Residence,245,8 Days on Site
+BE41057507,"$1,375,000 ",3,2,"1,463",1954,"4135 Jensen St, Pleasanton,  CA 94566",Single Family Residence,245,8 Days on Site
+BE41057421,"$1,890,000 ",4,2,"1,956",1970,"3299 Runnymede Ct, Pleasanton,  CA 94588",Single Family Residence,435,8 Days on Site
+BE41055106,"$1,750,000 ",3,2,"1,800",1964,"1564 Greenwood Rd, Pleasanton,  CA 94566",Single Family Residence,435,8 Days on Site
+BE41057279,"$1,789,000 ",4,3,"2,330",1993,"3723 Rose Rock Cir, Pleasanton,  CA 94588",Single Family Residence,216,9 Days on Site
+CC41057130,"$3,999,995 ",5,6,"4,035",2024,"1189 Lund Ranch Road, Pleasanton,  CA 94566",Single Family Residence,203,10 Days on Site
+BE41056769,"$2,400,000 ",–,–,–,–,"3984 Foothill Rd, Pleasanton,  CA 94588",Land,203,14 Days on Site
+BE41056573,"$1,788,000 ",4,3,"2,150",1985,"3847 Cheshire Ct, Pleasanton,  CA 94588",Single Family Residence,435,15 Days on Site
+EB41056655,"$669,900 ",2,2,"1,043",1991,"8150 Mountain View Dr #B,  Pleasanton,  CA 94588",Condominium,649,15 Days on Site
+BE41055894,"$2,345,500 ",4,3,"4,050",2000,"141 Ray St, Pleasanton,  CA 94566",Single Family Residence,649,15 Days on Site
+BE41056307,"$3,395,000 ",5,5,"4,000",1997,"6016 Tillman Ct, Pleasanton,  CA 94588",Single Family Residence,190,15 Days on Site
+BE41056389,"$3,988,000 ",4,6,"4,894",1964,"34 Golf Rd, Pleasanton,  CA 94566",Single Family Residence,295,16 Days on Site
+BE41056406,"$1,450,000 ",3,3,"1,458",1994,"3864 Promenade Way, Pleasanton,  CA 94566",Single Family Residence,95,16 Days on Site
+BE41056378,"$1,749,000 ",4,3,"2,337",1975,"7580 Olive Dr, Pleasanton,  CA 94588",Single Family Residence,670,16 Days on Site
+BE41055902,"$4,533,300 ",5,5,"6,016",2006,"2193 Canosa Ct, Pleasanton,  CA 94566",Single Family Residence,295,21 Days on Site
+ML81942152,"$1,998,000 ",4,4,"2,456",1969,"3599 Carlsbad Ct, Pleasanton,  CA 94588",Single Family Residence,295,22 Days on Site
+BE41055797,"$449,000 ",1,1,681,1959,"829 Division St #C,  Pleasanton,  CA 94566",Condominium,710,22 Days on Site
+BE41052491,"$2,499,000 ",3,3,"2,517",1941,"406 Oak Lane, Pleasanton,  CA 94566",Single Family Residence,295,23 Days on Site
+BE41052801,"$1,099,000 ",3,3,"1,503",1994,"4268 Lucero Ct, Pleasanton,  CA 94588",Townhouse,279,23 Days on Site
+BE41054518,"$524,900 ",1,1,790,1991,"8015 Mountain View Dr #E,  Pleasanton,  CA 94588",Condominium,557,23 Days on Site
+BE41055230,"$1,799,000 ",4,4,"2,851",2016,"1571 Lexington Lane, Pleasanton,  CA 94566",Single Family Residence,284,24 Days on Site
+BE41054922,"$1,699,000 ",4,3,"1,942",1970,"893 Palomino Dr, Pleasanton,  CA 94566",Single Family Residence,284,29 Days on Site
+EB41054958,"$625,000 ",2,2,"1,028",1971,"3433 Norton Way #6,  Pleasanton,  CA 94566",Condominium,582,29 Days on Site
+BE41054776,"$210,000 ",2,2,"1,536",–,"3263 Vineyard Ave #43,  Pleasanton,  CA 94566",Manufactured In Park,582,29 Days on Site
+CC41053477,"$330,000 ",3,2,"1,308",–,"3263 Vineyard #85,  Pleasanton,  CA 94566",Manufactured In Park,582,30 Days on Site
+CC41053161,"$3,975,000 ",4,4,"3,455",1977,"777 Happy Valley Rd, Pleasanton,  CA 94566",Single Family Residence,582,44 Days on Site
+BE41052943,"$1,700,000 ",3,3,"1,910",2012,"3540 Felton Ter, Pleasanton,  CA 94566",Single Family Residence,285,49 Days on Site
+BE41052947,"$199,000 ",2,2,"1,040",–,"3231 Vineyard Ave. #20 #20,  Pleasanton,  CA 94566",Manufactured In Park,285,49 Days on Site
+BE41051469,"$349,888 ",3,2,"1,530",–,"3263 Vineyard Ave. #9,  Pleasanton,  CA 94566",Manufactured In Park,285,50 Days on Site
+CC41052540,"$3,888,800 ",5,5,"5,131",1990,"9904 Longview Ln, Pleasanton,  CA 94588",Single Family Residence,167,50 Days on Site
+ME224023435,"$5,250,000 ",5,5,"4,924",–,"5568 Serenity Terrace, Pleasanton,  CA 94588",Single Family Residence,94,51 Days on Site
+BE41058339,"$1,695,000 ",4,2,"1,835",1986,"4616 Empire St, Union City,  CA 94587",Single Family Residence,0,2 Days on Site
+BE41058236,"$1,398,000 ",4,2,"1,675",1971,"31406 San Jacinto Ct., Union City,  CA 94587",Single Family Residence,0,2 Days on Site
+BE41058191,"$1,550,000 ",3,3,"1,472",1990,"4740 Ashley Ct, Union City,  CA 94587",Single Family Residence,150,3 Days on Site
+BE41057184,"$649,000 ",2,2,"1,170",2007,"30725 Union City Blvd, Union City,  CA 94587",Condominium,542,4 Days on Site
+BE41057584,"$1,150,000 ",3,2,"1,040",1962,"1500 H St, Union City,  CA 94587-3353",Single Family Residence,542,8 Days on Site
+ML81963236,"$489,000 ",2,1,710,1985,"103 Camino Plz, Union City,  CA 94587",Condominium,416,8 Days on Site
+ME224020690,"$999,000 ",4,2,"1,419",–,"33329 13th St., Union City,  CA 94587",Single Family Residence,416,9 Days on Site
+BE41056088,"$915,000 ",2,3,"1,421",2001,"4174 Glenwood Ter #1,  Union City,  CA 94587",Condominium,268,10 Days on Site
+BE41057206,"$1,499,000 ",4,2,"1,675",1971,"31418 San Jacinto Ct, Union City,  CA 94587",Single Family Residence,268,10 Days on Site
+ME224040897,"$175,000 ",–,–,0,–,"34584 Alvarado-Niles Rd, Union City,  CA 94587",Business Opportunity,268,10 Days on Site
+BE41056557,"$879,900 ",4,3,"1,430",1970,"4536 via Madrid, Union City,  CA 94587",Townhouse,307,16 Days on Site
+ML81961338,"$1,249,000 ",3,2,"1,735",1959,"33635 14th St, Union City,  CA 94587",Single Family Residence,307,21 Days on Site
+BE41055836,"$534,990 ",1,1,737,2007,"30653 Union City Blvd, Union City,  CA 94587",Condominium,541,23 Days on Site
+ML81960286,"$630,000 ",2,2,880,1985,"276 Galano Plz, Union City,  CA 94587",Condominium,416,29 Days on Site
+BE41055024,"$650,888 ",2,1,875,1971,"4466 Madrid Court, Union City,  CA 94587",Townhouse,307,29 Days on Site
+ML81960170,"$130,000 ",–,–,"1,000",–,"1672 Decoto, Union City,  CA 94587",Business Opportunity,307,30 Days on Site
+BE41053888,"$250,000 ",3,2,"1,440",–,"263 Molokai Circle, Union City,  CA 94587",Manufactured In Park,307,30 Days on Site
+BE41054577,"$929,000 ",3,3,"1,212",1997,"33024 Alicante Ter, Union City,  CA 94587",Single Family Residence,175,32 Days on Site
+BE41054506,"$269,900 ",2,2,"1,640",–,"458 Makaha Circle, Union City,  CA 94587",Manufactured In Park,175,33 Days on Site
+BE41053853,"$1,439,000 ",4,4,"2,129",2019,"33410 Eileen Ter, Union City,  CA 94587",Townhouse,334,38 Days on Site
+ML81959125,"$875,000 ",3,3,"1,137",1971,"32236 Mercury Way, Union City,  CA 94587",Townhouse,333,38 Days on Site
+BE41053478,"$299,000 ",–,–,–,–,"209 Appian Way, Union City,  CA 94587",Land,333,44 Days on Site
+BE41052395,"$1,089,000 ",4,3,"1,432",1976,"31221 Lily St, Union City,  CA 94587",Single Family Residence,333,52 Days on Site
+BE41051938,"$524,950 ",2,1,798,1972,"34809 Starling Dr #4,  Union City,  CA 94587",Condominium,385,59 Days on Site
+BE41048915,"$409,999 ",4,2,"1,536",–,"2553 Mifflin Ave, Union City,  CA 94587",Manufactured In Park,385,94 Days on Site
+ML81951844,"$189,999 ",–,–,"1,944",–,"1688 Decoto Rd, Union City,  CA 94587",Business Opportunity,385,107 Days on Site
+CC41042989,"$135,000 ",2,2,"1,152",–,"1588 H St, Union City,  CA 94587",Manufactured In Park,385,191 Days on Site
+BE40783529,"$799,999 ",4,3,"1,750",1979,"2127 Godwit Ct, Union City,  CA 94587",Single Family Residence,385,2530 Days on Site
+BE41054361,"$1,675,000 ",–,–,"3,769",0,"1356 Valley St, Hayward,  CA 94541",Residential Income,385,35 Days on Site
+ML81959226,"$948,000 ",3,2,"1,493",1950,"24641 Pontiac St, Hayward,  CA 94544",Single Family Residence,385,37 Days on Site
+ML81959165,"$1,550,000 ",4,3,"3,800",1962,"4207 Picea Ct, Hayward,  CA 94542",Single Family Residence,385,37 Days on Site
+BE41053753,"$978,000 ",–,–,"2,366",1947,"1462 Highland Blvd, Hayward,  CA 94542",Duplex,385,42 Days on Site
+BE41053725,"$264,975 ",2,2,"1,800",–,"959 Fall River Drive, Hayward,  CA 94544",Manufactured In Park,385,43 Days on Site
+ML81958573,"$1,589,000 ",7,5,"3,411",2020,"1624 D St, Hayward,  CA 94541",Single Family Residence,385,43 Days on Site
+ML81957809,"$799,888 ",2,2,"1,501",2022,"422 Trace Ln, Hayward,  CA 94544",Condominium,332,44 Days on Site
+ML81958447,"$2,250,000 ",6,5,"3,665",2020,"6 Harkness Cir, Hayward,  CA 94542",Single Family Residence,220,44 Days on Site
+BE41053552,"$339,000 ",3,2,"1,248",–,"28816 Jupiter St., Hayward,  CA 94544",Manufactured In Park,220,44 Days on Site
+BE41053297,"$510,000 ",2,2,926,1986,"945 Fletcher Lane #D336,  Hayward,  CA 94544",Condominium,550,45 Days on Site
+BE41052966,"$2,990,000 ",–,–,–,–,"26660 Hayward Blvd, Hayward,  CA 94542",Land,550,50 Days on Site
+BE41052948,"$2,990,000 ",2,1,0,1930,"26550 Hayward Blvd, Hayward,  CA 94542",Single Family Residence,550,50 Days on Site
+ML81957644,"$799,000 ",3,3,"1,921",1979,"1116 Holmes Way, Hayward,  CA 94541",Townhouse,625,51 Days on Site
+BE41052592,"$399,999 ",2,1,900,1986,"27949 Thornton Ct 1b,  Hayward,  CA 94544",Condominium,465,52 Days on Site
+ML81952975,"$49,000 ",–,–,–,–,"000 Kelly St, Hayward,  CA 94541",Land,465,52 Days on Site
+ML81957252,"$3,500,000 ",–,–,–,–,"23420 Maud Ave, Hayward,  CA 94541",Land,465,53 Days on Site
+ML81957099,"$895,000 ",2,3,"1,491",2024,"115 Spectrum Ln, Hayward,  CA 94544",Condominium,313,54 Days on Site
+BE41052137,"$3,250,000 ",–,–,"9,812",1968,"21641 Montgomery St, Hayward,  CA 94541",Residential Income,313,57 Days on Site
+BE41052156,"$379,900 ",1,1,598,1984,"325 Valle Vista Ave #303,  Hayward,  CA 94544",Condominium,623,57 Days on Site
+BE41052111,"$525,000 ",2,2,878,1988,"713 Canonbury Way #196,  Hayward,  CA 94544",Condominium,562,58 Days on Site
+BE41051975,"$600,000 ",–,–,–,–,"19884 Meekland, Hayward,  CA 94541",Land,562,59 Days on Site
+BE41051397,"$309,900 ",3,2,"1,536",–,"29445 Providence Way, Hayward,  CA 94544",Manufactured In Park,562,62 Days on Site
+BE41051075,"$2,199,950 ",–,–,"4,100",1955,"1798 B St, Hayward,  CA 94541",Residential Income,562,65 Days on Site
+BE41050960,"$1,393,000 ",–,–,"4,242",1964,", Hayward,  CA 94541",Commercial Sale,562,68 Days on Site
+BE41050880,"$788,000 ",2,1,"1,035",1938,"21725 Vallejo St, Hayward,  CA 94541",Single Family Residence,562,71 Days on Site
+BE41050065,"$799,000 ",3,3,"1,458",1997,"2111 Brandywine Pl, Hayward,  CA 94542",Single Family Residence,174,72 Days on Site
+BE41050621,"$1,393,000 ",–,–,"4,242",1964,", Hayward,  CA 94541",Commercial Sale,174,72 Days on Site
+BE41050618,"$899,950 ",–,–,"1,560",1963,"21573 Meekland Ave, Hayward,  CA 94541",Duplex,174,72 Days on Site
+EB41050288,"$1,900,000 ",2,1,"1,184",1939,"21617 Haviland Ave, Hayward,  CA 94541",Single Family Residence,174,77 Days on Site
+BE41050053,"$270,000 ",–,–,–,–,"32153 Bernice Way, Hayward,  CA 94544",Land,174,79 Days on Site
+EB41049006,"$1,900,000 ",–,–,"4,784",1998,"21621 Haviland Ave, Hayward,  CA 94541",Residential Income,174,93 Days on Site
+BE41048576,"$125,000 ",–,–,–,–,"00 Central Blvd, Hayward,  CA 94542",Land,174,98 Days on Site
+BE41048418,"$2,299,000 ",–,–,"4,788",1960,"21266 Garden Ave., Hayward,  CA 94541",Residential Income,174,100 Days on Site
+BE41048343,"$7,500,000 ",–,–,–,–,"675 Jackson Street, Hayward,  CA 94544",Land,174,101 Days on Site
+ME224001998,"$259,000 ",–,–,–,–,"0 Morse Ave, Hayward,  CA 94542",Land,0,115 Days on Site
+BE41046838,"$125,000 ",–,–,–,–,"0 Central Blvd, Hayward,  CA 94541",Land,0,120 Days on Site
+BE41046221,"$299,999 ",–,–,–,–,"32045 Bernice Way, Hayward,  CA 94544",Land,0,137 Days on Site
+BE41045695,"$1,890,000 ",–,–,–,–,"2492 D St, Hayward,  CA 94541",Land,0,148 Days on Site
+BE41045472,"$4,180,000 ",–,–,"10,031",2009,"20161 Royal Ave, Hayward,  CA 94541",Residential Income,0,151 Days on Site
+BE41042680,"$995,000 ",–,–,"3,250",1918,"22561 Main St, Hayward,  CA 94541",Commercial Sale,0,194 Days on Site
+BE41042403,"$2,600,000 ",–,–,"5,934",1973,", Hayward,  CA 94541",Commercial Sale,0,198 Days on Site
+ML81945375,"$429,000 ",3,2,"1,708",2015,"1501 Cartagena Ave #397,  Hayward,  CA 94544",Manufactured In Park,0,152 Days on Site
+BE41039789,"$449,000 ",–,–,"1,676",1981,"2535 W Winton Ave 4a, Hayward,  CA 94545",Commercial Sale,0,226 Days on Site
+ML81941885,"$788,000 ",2,1,882,1928,"22526 Richard St, Hayward,  CA 94541",Single Family Residence,0,201 Days on Site
+BA323909913,"$565,000 ",2,2,"1,203",1983,"25912 Hayward Blvd #106,  Hayward,  CA 94542",Condominium,561,234 Days on Site
+ML81939629,"$439,230 ",1,1,429,2021,"345 Rhythm Ln, Hayward,  CA 94544",Condominium,275,255 Days on Site
+ML81939286,"$499,800 ",–,–,–,–,"2812 Kelly St, Hayward,  CA 94541",Land,275,257 Days on Site
+BE41036064,"$850,000 ",–,–,"2,200",1930,"948 C St, Hayward,  CA 94541",Commercial Sale,275,263 Days on Site
+BE41032836,"$980,000 ",–,–,–,–,"1408 Clay St, Hayward,  CA 94541",Land,275,297 Days on Site
+BE41032825,"$999,950 ",–,–,"1,285",1948,"22685 Santa Clara St, Hayward,  CA 94541",Residential Income,275,297 Days on Site
+ML81934579,"$875,000 ",3,1,"1,108",1935,"2943 Baumberg Ave, Hayward,  CA 94545",Single Family Residence,275,229 Days on Site
+ML81930989,"$7,200,000 ",–,–,–,–,"25730 University Ct, Hayward,  CA 94542",Land,275,332 Days on Site
+BE41029483,"$1,995,000 ",–,–,0,1958,"32513 Mission Blvd, Hayward,  CA 94544",Residential Income,275,333 Days on Site
+BE41029477,"$1,995,000 ",–,–,–,–,"32513 Mission Blvd, Hayward,  CA 94544",Land,275,333 Days on Site
+BE41027048,"$1,400,000 ",–,–,–,–,"0 Hayward Blvd, Hayward,  CA 94542",Land,275,358 Days on Site
+ML81874545,"$888,888 ",4,3,"1,960",1979,"23232 Lori Way, Hayward,  CA 94541",Single Family Residence,275,3 Days on Site
+BE40976465,"$4,500,000 ",–,–,–,–,"26736 Hayward Boulevard, Hayward,  CA 94542",Land,275,866 Days on Site
+BE40773819,"$125,000 ",–,–,"6,040",–,"404 W Harder Rd, Hayward,  CA 94544",Business Opportunity,275,2605 Days on Site
+CC41058370,"$688,000 ",3,2,"1,288",1981,"21117 Gary Dr #112,  Hayward,  CA 94546",Condominium,625,0 Days on Site
+BE41058460,"$799,950 ",3,2,"1,115",1954,"28220 Rochelle Ave, Hayward,  CA 94544",Single Family Residence,625,0 Days on Site
+CC41058496,"$1,249,000 ",3,3,"1,808",1979,"3496 Skyline Dr, Hayward,  CA 94542",Single Family Residence,625,0 Days on Site
+BE41058342,"$2,350,000 ",4,4,"4,812",2008,"29941 Bello View Pl, Hayward,  CA 94544",Single Family Residence,405,1 Day on Site
+SF424029729,"$988,000 ",3,3,"1,300",0,"31996 Kennet St, Hayward,  CA 94566",Single Family Residence,405,1 Day on Site
+BE41058273,"$719,999 ",3,3,"1,421",1973,"25121 Vista Greens Ct, Hayward,  CA 94541",Townhouse,498,1 Day on Site
+BE41058229,"$899,888 ",4,2,"1,128",1957,"27412 Portsmouth Ave, Hayward,  CA 94545",Single Family Residence,498,1 Day on Site
+BE41058348,"$249,000 ",2,2,"1,488",–,"Harpoon Way, Hayward,  CA 94544-6442",Manufactured In Park,498,1 Day on Site
+SF424029513,"$2,498,880 ",5,5,"4,051",0,"97 Dunfirth Dr, Hayward,  CA 94542",Single Family Residence,220,1 Day on Site
+SF424024919,"$1,150,000 ",3,4,"1,922",0,"1301 Antonella Pl, Hayward,  CA 94541",Single Family Residence,239,1 Day on Site
+CC41058187,"$799,000 ",3,3,"1,516",2011,"674 Macabee Way, Hayward,  CA 94541",Townhouse,280,1 Day on Site
+BE41058289,"$1,249,000 ",3,2,"1,265",1922,"915 Blossom Way, Hayward,  CA 94541",Single Family Residence,280,1 Day on Site
+CC41058228,"$1,798,000 ",3,2,"2,673",1972,"26233 Clover Rd, Hayward,  CA 94542",Single Family Residence,280,1 Day on Site
+ME224037972,"$949,999 ",4,2,"1,128",–,"2685 Leeward St, Hayward,  CA 94545",Single Family Residence,280,1 Day on Site
+BE41058190,"$240,000 ",2,2,"1,368",–,"1150 W Winton Ave #510,  Hayward,  CA 94545-1428",Manufactured In Park,280,2 Days on Site
+ML81963561,"$800,000 ",3,1,"1,025",1951,"23131 Nevada Rd, Hayward,  CA 94541",Single Family Residence,280,2 Days on Site
+BE41058154,"$700,000 ",1,2,"1,042",2020,"29345 Hub Ct, Hayward,  CA 94544",Condominium,308,2 Days on Site
+ME224039225,"$1,800,000 ",5,3,"3,376",–,"23797 Thurston Ct, Hayward,  CA 94541",Single Family Residence,308,2 Days on Site
+EB41058196,"$250,000 ",2,2,"1,440",–,"28959 Nottingham Rd., Hayward,  CA 94544",Manufactured In Park,308,2 Days on Site
+BE41057799,"$333,888 ",3,2,"1,560",–,"28914 Miranda St #226,  Hayward,  CA 94541",Manufactured In Park,308,2 Days on Site
+BE41057945,"$899,999 ",2,2,"1,074",1948,"27166 Hayward Blvd, Hayward,  CA 94542",Single Family Residence,308,3 Days on Site
+BE41057962,"$178,000 ",2,1,800,–,"1150 W Winton Ave #530,  Hayward,  CA 94545",Manufactured In Park,308,3 Days on Site
+EB41057987,"$1,230,000 ",4,3,"2,708",1975,"24431 2nd St, Hayward,  CA 94541-6742",Single Family Residence,308,3 Days on Site
+ME224044769,"$1,500,000 ",3,2,"1,392",–,"649 Cherokee Ct, Hayward,  CA 94544",Single Family Residence,308,3 Days on Site
+CC41057843,"$925,000 ",3,2,"1,500",1960,"639 Woodland Ave, Hayward,  CA 94544",Single Family Residence,308,4 Days on Site
+BE41057763,"$249,888 ",2,2,960,–,"1200 W Winton Ave #177,  Hayward,  CA 94545",Manufactured In Park,308,5 Days on Site
+ML81963375,"$799,000 ",3,2,"1,041",1928,"24047 Alice St, Hayward,  CA 94541",Single Family Residence,308,5 Days on Site
+BE41057771,"$398,000 ",3,2,"1,647",–,"29225 Harpoon Way, Hayward,  CA 94544",Manufactured In Park,308,5 Days on Site
+EB41057520,"$1,349,950 ",4,3,"2,060",1976,"3647 Skyline Dr, Hayward,  CA 94542",Single Family Residence,308,6 Days on Site
+ME224041460,"$1,275,000 ",3,2,"1,693",–,"23139 Palazzo Del Kayla, Hayward,  CA 94541",Single Family Residence,308,6 Days on Site
+ME224043712,"$1,699,000 ",5,3,"2,650",–,"27899 Adobe Ct, Hayward,  CA 94542",Single Family Residence,308,6 Days on Site
+ME224043743,"$329,000 ",2,2,"1,060",–,"2276 Bridwell Way, Hayward,  CA 94545",Manufactured In Park,0,6 Days on Site
+ML81959956,"$740,000 ",2,1,888,1951,"25851 Bel Aire Dr, Hayward,  CA 94542",Single Family Residence,0,3 Days on Site
+EB41057618,"$845,000 ",3,2,"1,407",2024,"501 Somi #206,  Hayward,  CA 94544",Condominium,740,7 Days on Site
+BE41057540,"$799,808 ",3,1,"1,170",1952,"246 Gloria St, Hayward,  CA 94544",Single Family Residence,740,7 Days on Site
+BE41057551,"$410,000 ",2,2,725,1984,"325 Valle Vista Ave #104,  Hayward,  CA 94544",Condominium,723,7 Days on Site
+BE41057557,"$950,000 ",4,2,"1,775",1950,"2827 Hansen Rd, Hayward,  CA 94541",Single Family Residence,723,7 Days on Site
+ML81963074,"$898,000 ",3,2,"1,000",1957,"27669 Capri Ave, Hayward,  CA 94545",Single Family Residence,723,8 Days on Site
+ML81963108,"$998,000 ",4,4,"1,982",2013,"1243 George Cir, Hayward,  CA 94541",Townhouse,235,8 Days on Site
+BE41057383,"$1,289,000 ",3,3,"2,077",1986,"2060 Quail Canyon Ct, Hayward,  CA 94542",Single Family Residence,100,8 Days on Site
+ML81959517,"$849,000 ",3,1,927,1952,"27807 Bruno St, Hayward,  CA 94544",Single Family Residence,100,8 Days on Site
+BE41057400,"$1,028,000 ",3,2,"1,832",1959,"739 Briergate Way, Hayward,  CA 94544",Single Family Residence,100,8 Days on Site
+BE41057196,"$599,000 ",2,2,"1,070",1981,"21117 Gary Dr #214,  Hayward,  CA 94546",Condominium,588,9 Days on Site
+BE41057286,"$840,000 ",3,2,"1,115",1955,"28628 Rochelle Ave, Hayward,  CA 94544",Single Family Residence,588,9 Days on Site
+BE41057283,"$369,000 ",3,2,"1,443",–,"1348 Chelsea Way, Hayward,  CA 94544",Manufactured In Park,588,9 Days on Site
+SD240008710,"$425,000 ",1,1,440,1940,"21196  Locust St, Hayward,  CA 94541",Single Family Residence,0,10 Days on Site
+BE41056970,"$784,888 ",4,3,"1,656",1971,"27340 Marigold Court, Hayward,  CA 94545",Townhouse,275,11 Days on Site
+BE41057029,"$1,298,000 ",–,–,"4,000",1958,"22257 Mission Blvd, Hayward,  CA 94541",Commercial Sale,275,11 Days on Site
+BE41056718,"$488,000 ",2,1,900,1986,"27901 Thornton Ct 5b,  Hayward,  CA 94544",Condominium,465,14 Days on Site
+ML81960920,"$919,000 ",5,2,"1,578",1950,"24896 Diadon Dr, Hayward,  CA 94544",Single Family Residence,465,14 Days on Site
+BE41056547,"$485,000 ",2,1,946,1986,"945 Fletcher Lane #A332,  Hayward,  CA 94544",Condominium,550,15 Days on Site
+BA324028180,"$395,000 ",1,1,643,1988,"29591 Vanderbilt St #207,  Hayward,  CA 94544",Condominium,464,15 Days on Site
+EB41056181,"$775,000 ",3,3,"1,381",2005,"785 Dean, Hayward,  CA 94541",Townhouse,413,16 Days on Site
+ME224038935,"$829,900 ",5,3,"2,070",–,"22143 Montgomery St, Hayward,  CA 94541",Residential,413,16 Days on Site
+ME224038896,"$320,000 ",4,2,"1,272",–,"148 Saturn Ave 79, Hayward,  CA 94544",Manufactured In Park,0,16 Days on Site
+EB41056375,"$938,000 ",3,3,"1,758",2024,"27260 Cosmo #15,  Hayward,  CA 94541",Condominium,400,16 Days on Site
+ME224039045,"$659,000 ",2,1,910,–,"552 Willow, Hayward,  CA 94541",Single Family Residence,400,16 Days on Site
+BE41056353,"$569,000 ",2,2,894,1988,"699 Dartmore Ln #372,  Hayward,  CA 94544",Condominium,562,16 Days on Site
+BE41054827,"$499,888 ",2,2,990,1986,"27951 Thornton Ct 1a,  Hayward,  CA 94544",Condominium,475,16 Days on Site
+BE41056214,"$450,000 ",3,2,"1,175",1981,"631 Foster Ct #4,  Hayward,  CA 94544",Condominium,813,17 Days on Site
+BE41056254,"$999,000 ",4,3,"1,464",1955,"27704 Calaroga Ave, Hayward,  CA 94545",Single Family Residence,813,17 Days on Site
+BE41056217,"$899,888 ",4,2,"1,853",1955,"537 Beechmont Ln, Hayward,  CA 94544",Single Family Residence,813,17 Days on Site
+ML81961650,"$1,333,000 ",–,–,"2,292",1922,"22615 Alice St, Hayward,  CA 94541",Residential Income,813,17 Days on Site
+ML81961526,"$1,150,000 ",3,3,"1,569",2024,"1495 173rd Ave, Hayward,  CA 94541",Single Family Residence,813,18 Days on Site
+BE41056182,"$999,000 ",4,2,"1,640",1952,"272 Newton St, Hayward,  CA 94544",Single Family Residence,813,18 Days on Site
+ML81961485,"$719,000 ",2,3,"1,227",2013,"1214 Martin Luther King Dr, Hayward,  CA 94541",Condominium,262,18 Days on Site
+ML81960453,"$685,000 ",2,2,"1,199",1953,"22722 7th St, Hayward,  CA 94541",Condominium,495,21 Days on Site
+BE41055884,"$3,050,000 ",–,–,"8,589",1941,"29062 Huntwood Ave, Hayward,  CA 94544",Residential Income,495,21 Days on Site
+BE41055720,"$975,000 ",4,2,"1,315",1951,"394 Wyeth Rd, Hayward,  CA 94544",Single Family Residence,495,22 Days on Site
+EB41055713,"$575,000 ",2,2,"1,110",1988,"814 Voyager Way, Hayward,  CA 94544",Townhouse,413,22 Days on Site
+BE41055791,"$849,000 ",3,4,"1,515",2010,"1048 Old Oak Ln, Hayward,  CA 94541",Single Family Residence,275,22 Days on Site
+ML81960997,"$998,888 ",4,2,"1,500",1950,"24667 Dale St, Hayward,  CA 94544",Single Family Residence,275,22 Days on Site
+EB41055638,"$849,900 ",3,2,"1,119",1955,"2005 Sarasota Ln, Hayward,  CA 94545",Single Family Residence,275,23 Days on Site
+BA324025017,"$1,500,000 ",4,2,"2,065",1954,"3580 Star Ridge Rd, Hayward,  CA 94542",Single Family Residence,275,24 Days on Site
+BE41055457,"$469,000 ",2,2,725,1984,"325 Valle Vista Avenue #204,  Hayward,  CA 94544",Condominium,751,24 Days on Site
+CC41054502,"$725,000 ",2,1,"1,056",1926,"874 Cherry Way, Hayward,  CA 94541",Single Family Residence,751,25 Days on Site
+BE41055274,"$768,888 ",2,3,"1,445",2020,"25405 Parklane Dr, Hayward,  CA 94544",Townhouse,280,25 Days on Site
+EB41055247,"$750,000 ",3,2,"1,176",1954,"3283 Naomi Drive, Hayward,  CA 94541",Single Family Residence,280,26 Days on Site
+BE41053577,"$830,000 ",4,3,"1,705",2009,"25437 Huntwood Avenue, Hayward,  CA 94544-2781",Condominium,289,28 Days on Site
+EB41055116,"$509,000 ",2,2,"1,101",1980,"20917 Locust St #B,  Hayward,  CA 94541",Condominium,626,28 Days on Site
+BE41053701,"$694,000 ",2,1,840,1943,"1815 Cedar St, Hayward,  CA 94541",Single Family Residence,626,29 Days on Site
+BE41054871,"$690,000 ",–,–,–,–,"0 Fairview Dr., Hayward,  CA 94542",Land,626,29 Days on Site
+BE41054929,"$1,899,900 ",–,–,"14,288",1949,", Hayward,  CA 94541",Commercial Sale,626,29 Days on Site
+BE41054768,"$495,000 ",1,1,787,1984,"2419 Saint Helena Dr #3,  Hayward,  CA 94542",Condominium,524,30 Days on Site
+EB41054785,"$869,900 ",–,–,"2,130",1895,"663 Kendall Way, Hayward,  CA 94541",Residential Income,524,30 Days on Site
+SF424019124,"$599,000 ",2,1,758,1925,"166 B St, Hayward,  CA 94541",Residential,524,30 Days on Site
+BE41051752,"$875,000 ",3,2,"1,583",1906,"1241 D St, Hayward,  CA 94541",Single Family Residence,524,31 Days on Site
+BE41054139,"$399,000 ",3,2,"1,500",–,"29321 New Hampshire, Hayward,  CA 94544",Manufactured In Park,524,32 Days on Site
+BE41051612,"$1,099,800 ",4,3,"1,388",1952,"287 Goodrich St, Hayward,  CA 94544",Single Family Residence,524,32 Days on Site
+MR41054491,"$775,000 ",–,–,"1,792",2003,", Hayward,  CA 94545",Commercial Sale,524,32 Days on Site
+CC41058576,"$995,000 ",3,2,938,1919,"1226 Dwight Way, Berkeley,  CA 94702",Single Family Residence,0,0 Days on Site
+EB41058450,"$950,000 ",2,2,"1,312",1941,"1365 Neilson St, Berkeley,  CA 94702",Single Family Residence,0,1 Day on Site
+EB41058491,"$800,000 ",1,1,872,1964,"2634 Virginia St #14,  Berkeley,  CA 94709",Condominium,504,1 Day on Site
+EB41058380,"$995,000 ",2,2,"1,047",1915,"1216 Curtis St, Berkeley,  CA 94706",Single Family Residence,504,1 Day on Site
+EB41058324,"$1,295,000 ",3,3,"1,732",1975,"7 Rosemont Ave, Berkeley,  CA 94708",Single Family Residence,504,2 Days on Site
+EB41058268,"$1,595,000 ",–,–,"2,664",1923,"2210 Virginia St, Berkeley,  CA 94709",Residential Income,504,2 Days on Site
+CC41058251,"$995,000 ",4,3,"1,542",1942,"1523 Woolsey St, Berkeley,  CA 94703",Single Family Residence,504,2 Days on Site
+EB41058258,"$799,000 ",2,2,"1,200",1962,"2550 Dana St 8fg,  Berkeley,  CA 94704",Condominium,1004,2 Days on Site
+EB41058079,"$1,050,000 ",2,2,"1,228",1925,"1806 Allston Way, Berkeley,  CA 94703",Single Family Residence,1004,3 Days on Site
+BE41058124,"$1,995,000 ",5,3,"2,869",1920,"2954 Avalon Avenue, Berkeley,  CA 94705",Single Family Residence,1004,3 Days on Site
+ME224044990,"$999,000 ",4,2,"1,383",–,"1138 Bancroft, Berkeley,  CA 94702",Single Family Residence,1004,3 Days on Site
+ME224045122,"$929,000 ",2,1,"1,224",–,"1141 Bancroft, Berkeley,  CA 94702",Single Family Residence,1004,3 Days on Site
+EB41058117,"$1,395,000 ",4,3,"1,722",1923,"1934 Ward St., Berkeley,  CA 94703",Single Family Residence,1004,3 Days on Site
+EB41058090,"$995,000 ",3,3,"1,814",1950,"437 Michigan Ave, Berkeley,  CA 94707",Single Family Residence,1004,3 Days on Site
+EB41058104,"$2,100,000 ",4,3,"2,882",1977,"1024 Creston Rd, Berkeley,  CA 94708",Single Family Residence,1004,3 Days on Site
+EB41057713,"$689,000 ",2,2,834,1896,"1519 Fairview St #4,  Berkeley,  CA 94703",Condominium,437,3 Days on Site
+EB41057715,"$879,000 ",3,2,"1,178",1896,"1519 Fairview St #3,  Berkeley,  CA 94703",Condominium,462,3 Days on Site
+EB41058159,"$500,000 ",–,–,–,–,"1375 Queens Rd, Berkeley,  CA 94708",Land,462,3 Days on Site
+CC41058141,"$975,000 ",2,1,"1,147",1925,"2844 Stanton, Berkeley,  CA 94702",Single Family Residence,462,3 Days on Site
+EB41058125,"$799,000 ",–,–,"1,333",1910,"2917 Otis St, Berkeley,  CA 94703",Duplex,462,3 Days on Site
+EB41058018,"$889,000 ",3,2,"1,078",2024,"1244 Kains Ave., Berkeley,  CA 94706",Single Family Residence,462,3 Days on Site
+EB41058023,"$1,049,000 ",3,2,"1,260",1905,"2714 Wallace St, Berkeley,  CA 94702",Single Family Residence,462,3 Days on Site
+EB41058123,"$799,000 ",3,2,"1,333",1910,"2917 Otis St, Berkeley,  CA 94703",Single Family Residence,462,3 Days on Site
+SF424029300,"$700,000 ",–,–,–,–,"0 Charing Cross Rd, Berkeley,  CA 94705",Land,0,3 Days on Site
+EB41057991,"$2,500,000 ",3,4,"2,929",1906,"2616 Etna St, Berkeley,  CA 94704",Single Family Residence,0,3 Days on Site
+EB41058028,"$1,450,000 ",3,2,"2,226",1912,"1826 Hearst Ave, Berkeley,  CA 94703",Single Family Residence,0,3 Days on Site
+EB41056899,"$1,295,000 ",3,2,"1,607",1924,"2176 Oregon St, Berkeley,  CA 94705",Single Family Residence,0,4 Days on Site
+CC41057813,"$1,395,000 ",3,1,"1,960",1928,"1518 Josephine St, Berkeley,  CA 94703",Single Family Residence,0,5 Days on Site
+EB41057872,"$1,385,000 ",–,–,0,1920,"1331 Ashby Ave, Berkeley,  CA 94702",Residential Income,0,5 Days on Site
+CC41055283,"$1,499,999 ",2,2,"1,394",1994,"23 Gravatt, Berkeley,  CA 94705",Single Family Residence,0,6 Days on Site
+CC41057733,"$949,888 ",4,1,"1,467",1906,"2314 Russell Street, Berkeley,  CA 94705",Single Family Residence,0,7 Days on Site
+EB41057632,"$1,495,000 ",5,3,"2,846",1959,"7559 Claremont Ave, Berkeley,  CA 94705",Single Family Residence,0,8 Days on Site
+EB41057331,"$1,325,000 ",3,3,"1,506",1920,"1521 Mcgee Ave, Berkeley,  CA 94703",Single Family Residence,0,10 Days on Site
+EB41057308,"$1,998,000 ",7,4,"3,294",1956,"828 Indian Rock Ave, Berkeley,  CA 94707",Single Family Residence,0,10 Days on Site
+EB41057246,"$4,395,000 ",–,–,"14,913",1938,"1526 Arch St, Berkeley,  CA 94708",Residential Income,0,10 Days on Site
+EB41057272,"$1,650,000 ",4,3,"2,096",1924,"2608 Mcgee Ave, Berkeley,  CA 94703",Single Family Residence,0,10 Days on Site
+BE41057256,"$2,700,000 ",5,5,"3,943",2002,"1215 Alvarado Rd, Berkeley,  CA 94705",Single Family Residence,0,10 Days on Site
+EB41057118,"$1,495,000 ",4,2,"2,541",1941,"5 Senior Ave, Berkeley,  CA 94708",Single Family Residence,0,11 Days on Site
+EB41056022,"$1,499,900 ",–,–,"2,508",1940,"1311 Hopkins St, Berkeley,  CA 94702",Triplex,0,11 Days on Site
+CC41056943,"$449,000 ",–,–,–,–,"1110 Sterling Ave, Berkeley,  CA 94708",Land,0,12 Days on Site
+EB41056988,"$1,195,000 ",3,2,"1,552",1914,"1227 Channing Way, Berkeley,  CA 94702",Single Family Residence,0,12 Days on Site
+CC41056942,"$589,000 ",2,2,"1,800",1974,"1112 Sterling Ave, Berkeley,  CA 94708-1731",Single Family Residence,0,12 Days on Site
+CC41056640,"$949,800 ",3,2,900,1967,"2 Panoramic Way #301,  Berkeley,  CA 94704",Condominium,774,15 Days on Site
+EB41056755,"$599,000 ",1,1,500,1926,"2366 Cedar #3,  Berkeley,  CA 94708",Condominium,600,15 Days on Site
+EB41056633,"$2,150,000 ",5,3,"3,588",1937,"450 Vassar Ave, Berkeley,  CA 94708",Single Family Residence,600,16 Days on Site
+BE41056546,"$899,000 ",3,2,"1,784",1927,"479 Kentucky Avenue, Berkeley,  CA 94707",Single Family Residence,600,16 Days on Site
+CC41056490,"$1,498,000 ",4,2,"1,436",1954,"230 Fairlawn Dr, Berkeley,  CA 94708",Single Family Residence,600,17 Days on Site
+EB41056410,"$1,695,000 ",3,2,"1,943",1955,"157 Fairlawn Dr, Berkeley,  CA 94708",Single Family Residence,600,17 Days on Site
+SF424023001,"$645,000 ",1,1,787,1970,"2201 Virginia St #3,  Berkeley,  CA 94709",Condominium,852,17 Days on Site
+EB41056377,"$499,000 ",2,1,862,1910,"1312 4th St, Berkeley,  CA 94710",Condominium,852,17 Days on Site
+ML81961884,"$775,000 ",2,1,986,1926,"936 Camelia St, Berkeley,  CA 94710",Single Family Residence,852,17 Days on Site
+SF424024918,"$1,700,000 ",–,–,0,0,"1645 Dwight Way, Berkeley,  CA 94703",Residential Income,0,17 Days on Site
+CC41055916,"$1,750,000 ",–,–,"4,017",1905,"2410 9th St, Berkeley,  CA 94710",Residential Income,0,22 Days on Site
+EB41055658,"$1,550,000 ",–,–,"2,400",1930,"1431 Derby St, Berkeley,  CA 94702",Duplex,0,23 Days on Site
+ML81960998,"$1,535,790 ",3,4,"2,218",1913,"38 Panoramic Way, Berkeley,  CA 94704",Single Family Residence,0,23 Days on Site
+EB41055743,"$1,525,000 ",4,3,"2,306",1931,"2520 Marin Ave, Berkeley,  CA 94708",Single Family Residence,0,23 Days on Site
+EB41055506,"$1,550,000 ",5,4,"2,400",1930,"1431 Derby St, Berkeley,  CA 94702",Single Family Residence,0,24 Days on Site
+EB41055597,"$649,000 ",1,2,"1,452",1992,"1450 4th #13,  Berkeley,  CA 94710",Condominium,550,24 Days on Site
+EB41054657,"$3,495,000 ",5,5,"4,387",1988,"1484 Grizzly Peak Blvd, Berkeley,  CA 94708",Single Family Residence,550,24 Days on Site
+MR41055456,"$499,000 ",–,–,862,1910,"1312 4th St, Berkeley,  CA 94710",Commercial Sale,550,25 Days on Site
+BE41055320,"$850,000 ",2,1,"1,061",1908,"2709 California St, Berkeley,  CA 94703",Single Family Residence,550,26 Days on Site
+CC41055029,"$945,000 ",3,3,"1,554",1982,"1412 Henry Street, Berkeley,  CA 94709",Condominium,500,29 Days on Site
+EB41054913,"$1,399,000 ",3,2,"1,766",1920,"1127 Arch St, Berkeley,  CA 94708",Single Family Residence,500,30 Days on Site
+SF424019789,"$1,115,000 ",3,1,"1,314",1918,"2814 Mathews St, Berkeley,  CA 94702",Single Family Residence,500,32 Days on Site
+BE41053861,"$2,595,000 ",–,–,"3,755",1909,"3042 Martin Luther King Jr Way, Berkeley,  CA 94703",Residential Income,500,32 Days on Site
+ML81959712,"$845,000 ",3,2,"1,057",1920,"1904 Blake St, Berkeley,  CA 94704",Single Family Residence,500,32 Days on Site
+ML81957709,"$2,100,000 ",–,–,"3,252",1909,"1540 Prince St, Berkeley,  CA 94703",Duplex,500,33 Days on Site
+ME224030860,"$1,000,000 ",–,–,0,–,"1361 Delaware, Berkeley,  CA 94702",Duplex,0,36 Days on Site
+EB41054266,"$1,650,000 ",3,3,"2,262",1926,"942 Hilldale Ave., Berkeley,  CA 94708",Single Family Residence,0,36 Days on Site
+CC41053127,"$1,359,000 ",8,5,"2,128",1900,"2531 Dana St, Berkeley,  CA 94704",Single Family Residence,0,38 Days on Site
+CC41053996,"$275,000 ",–,–,–,–,"0 Panoramic Pl, Berkeley,  CA 94704",Land,10,38 Days on Site
+EB41053964,"$1,950,000 ",–,–,"4,990",1964,"2435 9th St, Berkeley,  CA 94710",Residential Income,10,39 Days on Site
+ML81958443,"$925,000 ",–,–,"1,117",2006,"2628 Telegraph Ave #1,  Berkeley,  CA 94704",Commercial Sale,10,44 Days on Site
+EB41053391,"$1,098,000 ",3,2,"1,664",2018,"1030 Grayson St, Berkeley,  CA 94710",Condominium,132,45 Days on Site
+ML81958242,"$748,950 ",2,1,812,1995,"2029 Channing Way 3c,  Berkeley,  CA 94704",Condominium,746,21 Days on Site
+EB41053300,"$979,000 ",2,1,"1,723",1932,"1345 Ward St, Berkeley,  CA 94702",Single Family Residence,746,45 Days on Site
+BA324018416,"$1,890,000 ",4,4,"1,910",0,"1418 Northside Ave, Berkeley,  CA 94702",Single Family Residence,746,47 Days on Site
+EB41052927,"$485,000 ",1,1,618,1944,"1644 San Pablo Ave #D,  Berkeley,  CA 94702",Condominium,333,50 Days on Site
+EB41051226,"$3,599,000 ",3,2,"2,544",1916,"1123 Arch St, Berkeley,  CA 94708",Single Family Residence,333,52 Days on Site
+ML81952971,"$39,000 ",–,–,–,–,"000 Panoramic Pl, Berkeley,  CA 94704",Land,333,52 Days on Site
+ML81957319,"$200,000 ",–,–,"1,000",–,"2521 Durant Ave #F,  Berkeley,  CA 94704",Business Opportunity,333,53 Days on Site
+CC41052350,"$1,350,000 ",–,–,–,–,"7068 Kenilworth Rd., Berkeley,  CA 94705",Land,333,54 Days on Site
+SF424013427,"$499,000 ",2,1,0,1956,"851 Dwight Crescent, Berkeley,  CA 94710",Condominium,234,57 Days on Site
+SF424013816,"$578,000 ",1,1,"1,130",2020,"2747 San Pablo Ave Lw1,  Berkeley,  CA 94702",Condominium,514,58 Days on Site
+ME224020509,"$1,600,000 ",5,4,"1,922",–,"2437 Acton St, Berkeley,  CA 94702",Single Family Residence,514,60 Days on Site
+ML81956362,"$250,000 ",–,–,"2,000",–,"1878 Euclid Ave, Berkeley,  CA 94709",Business Opportunity,514,60 Days on Site
+BE41051722,"$6,875,000 ",–,–,"7,167",1965,"1444 Walnut St, Berkeley,  CA 94709",Residential Income,514,61 Days on Site
+EB41051135,"$2,050,000 ",4,4,"2,699",1925,"1932 Yosemite Road, Berkeley,  CA 94707",Single Family Residence,514,66 Days on Site
+EB41051177,"$1,475,000 ",3,2,"1,597",2023,"1434 Fifth St., Berkeley,  CA 94710",Single Family Residence,514,66 Days on Site
+CC41050938,"$24,999 ",–,–,–,–,"846 Panoramic Pl, Berkeley,  CA 94720",Land,514,69 Days on Site
+BE41058366,"$1,050,000 ",3,1,"1,646",1931,"2323 Kilkare Rd, Sunol,  CA 94586",Single Family Residence,860,1 Day on Site
+BE41055432,"$875,000 ",2,2,"1,500",1928,"12062 Glenora Way, Sunol,  CA 94586",Single Family Residence,79,21 Days on Site
+CC41055978,"$100,000 ",–,–,–,–,"12063 Glenora Way, Sunol,  CA 94586",Land,0,21 Days on Site
+BE41050307,"$699,999 ",–,–,–,–,"900 Kilkare Rd, Sunol,  CA 94586",Land,0,67 Days on Site
+BE41046077,"$450,000 ",2,1,834,1932,"2947 Kilkare Rd, Sunol,  CA 94586",Single Family Residence,860,140 Days on Site
+BE41044402,"$2,249,000 ",–,–,–,–,"7768 Laguna Heights Ct, Sunol,  CA 94586",Land,342,165 Days on Site
+BE41043072,"$999,000 ",–,–,–,–,"3370 Little Valley Rd Parcel 4, Sunol,  CA 94586",Land,1500,189 Days on Site
+BE41042331,"$3,600,000 ",–,–,–,–,"4255 Sheridan Rd, Sunol,  CA 94586",Land,65,198 Days on Site
+BE41036395,"$3,838,000 ",6,1-Apr,"6,060",1987,"3333 Little Valley Rd, Sunol,  CA 94586",Single Family Residence,1500,260 Days on Site
+BE41024588,"$145,000 ",–,–,–,–,"11 Kilkare Rd, Sunol,  CA 94586",Land,1500,356 Days on Site
+BE41016254,"$6,000,000 ",–,–,–,–,"0 Mission Rd, Sunol,  CA 94586",Land,1500,488 Days on Site
+BE41058423,"$1,900,000 ",4,3,"2,774",1979,"79 Steuben Bay, Alameda,  CA 94502",Single Family Residence,244,2 Days on Site
+BE41058499,"$1,100,000 ",3,2,"1,435",1939,"2911 Fernside Blvd, Alameda,  CA 94501",Single Family Residence,244,2 Days on Site
+BE41058494,"$1,695,000 ",4,4,"2,646",1885,"2101 Alameda Ave, Alameda,  CA 94501",Single Family Residence,244,2 Days on Site
+BE41058402,"$749,000 ",2,1,"1,042",1984,"451 Centre Ct, Alameda,  CA 94502",Condominium,858,2 Days on Site
+BE41058375,"$1,795,000 ",5,2,"4,018",1910,"2909 Central Avenue, Alameda,  CA 94501",Single Family Residence,858,2 Days on Site
+SF424030091,"$1,000,000 ",–,–,"2,696",1924,"3100 Central Ave, Alameda,  CA 94501",Commercial Sale,858,2 Days on Site
+EB41058444,"$560,000 ",2,1,701,1941,"218 Brush Street #C,  Alameda,  CA 94501",Condominium,407,2 Days on Site
+EB41058400,"$1,350,000 ",2,2,"1,108",1920,"1318 8th St, Alameda,  CA 94501",Single Family Residence,0,2 Days on Site
+BE41058333,"$998,000 ",3,2,"1,135",1952,"302 Maitland Dr, Alameda,  CA 94502",Single Family Residence,0,3 Days on Site
+ML81964100,"$649,950 ",2,1,869,1996,"1312 Lincoln Ave, Alameda,  CA 94501",Townhouse,175,3 Days on Site
+BE41058358,"$1,679,000 ",3,2,"1,801",1922,"1308 Saint Charles St, Alameda,  CA 94501",Single Family Residence,175,3 Days on Site
+EB41058323,"$589,000 ",2,1,771,1964,"325 Kitty Hawk Rd #207,  Alameda,  CA 94501",Condominium,550,3 Days on Site
+EB41058083,"$1,249,000 ",2,4,"2,901",1926,"2531 Santa Clara Ave, Alameda,  CA 94501",Single Family Residence,550,3 Days on Site
+EB41058078,"$1,249,000 ",–,–,"2,901",1926,"2531 Santa Clara Ave, Alameda,  CA 94501",Residential Income,550,3 Days on Site
+BE41058313,"$895,000 ",2,1,"1,053",1924,"3108 Santa Clara Ave, Alameda,  CA 94501",Single Family Residence,550,3 Days on Site
+ME224045486,"$848,000 ",2,2,"1,254",–,"1082 Jost Ln, Alameda,  CA 94502",Townhouse,550,4 Days on Site
+BE41058001,"$1,495,000 ",4,3,"2,361",2007,"268 Ansel Ave, Alameda,  CA 94501",Single Family Residence,171,4 Days on Site
+BE41057822,"$849,000 ",2,2,"1,206",1977,"218 Ironwood Rd, Alameda,  CA 94502",Single Family Residence,621,4 Days on Site
+BE41057457,"$399,000 ",0,1,510,1970,"1305 Webster St #C107,  Alameda,  CA 94501",Condominium,593,4 Days on Site
+BE41058073,"$749,000 ",2,2,"1,250",1976,"1810 Central Ave #205,  Alameda,  CA 94501",Condominium,675,4 Days on Site
+EB41057916,"$1,198,888 ",–,–,"2,816",1926,"1100 Park Ave, Alameda,  CA 94501",Residential Income,675,5 Days on Site
+ML81963483,"$800,000 ",3,3,"1,664",1974,"3461 Oleander Ave, Alameda,  CA 94502",Townhouse,550,5 Days on Site
+EB41057814,"$849,000 ",3,2,"1,534",1985,"118 Shepardson Ln, Alameda,  CA 94502-6574",Condominium,775,6 Days on Site
+CC41057558,"$899,000 ",2,1,"1,081",1906,"607 Taylor Ave, Alameda,  CA 94501",Single Family Residence,775,9 Days on Site
+BE41057635,"$1,588,000 ",4,3,"1,736",1988,"33 Killybegs Rd., Alameda,  CA 94502",Single Family Residence,249,9 Days on Site
+BE41057561,"$995,000 ",3,2,"1,065",1913,"942 Park Street, Alameda,  CA 94501",Single Family Residence,249,9 Days on Site
+BE41057642,"$1,295,000 ",–,–,"2,472",1900,"1454 Caroline St., Alameda,  CA 94501",Residential Income,249,9 Days on Site
+BE41057480,"$749,000 ",3,3,"1,760",1975,"3407 Catalina Ave, Alameda,  CA 94502",Townhouse,550,10 Days on Site
+BE41057484,"$995,000 ",3,2,"1,454",2022,"2826 Fifth Street, Alameda,  CA 94501",Condominium,598,10 Days on Site
+CC41057454,"$998,000 ",3,2,"1,337",1938,"2827 Windsor Dr, Alameda,  CA 94501",Single Family Residence,598,10 Days on Site
+BE41057176,"$1,438,000 ",3,4,"2,189",2023,"2260 Stanford Street, Alameda,  CA 94501",Condominium,350,12 Days on Site
+BE41056928,"$2,100,000 ",–,–,"4,250",1910,", Alameda,  CA 94501",Commercial Sale,350,14 Days on Site
+CC41056385,"$799,000 ",2,2,"1,445",1976,"1810 Central Ave #206,  Alameda,  CA 94501",Condominium,675,16 Days on Site
+ME224038651,"$1,789,000 ",4,4,"2,939",–,"1543 Sherman St, Alameda,  CA 94501",Single Family Residence,675,17 Days on Site
+ML81934099,"$749,000 ",2,1,895,1925,"1011 Willow St, Alameda,  CA 94501",Single Family Residence,675,17 Days on Site
+BE41056664,"$799,000 ",2,1,"1,042",1985,"503 Centre Ct, Alameda,  CA 94502",Condominium,857,17 Days on Site
+EB41056639,"$1,900,000 ",3,3,"2,460",1936,"3243 Fernside Blvd, Alameda,  CA 94501",Single Family Residence,857,17 Days on Site
+EB41056448,"$1,195,000 ",–,–,"1,909",1905,"641 Central Ave, Alameda,  CA 94501",Residential Income,857,18 Days on Site
+BE41056284,"$974,960 ",2,3,"1,483",2023,"2047 Stanford Street, Alameda,  CA 94501",Condominium,350,19 Days on Site
+BE41056285,"$944,488 ",2,3,"1,462",2023,"2045 Stanford Street, Alameda,  CA 94501",Condominium,350,19 Days on Site
+BE41056290,"$944,284 ",2,3,"1,462",2023,"2039 Stanford Street, Alameda,  CA 94501",Condominium,350,19 Days on Site
+BE41056264,"$1,074,116 ",2,3,"1,630",2023,"2049 Stanford Street, Alameda,  CA 94501",Condominium,350,19 Days on Site
+ML81961683,"$775,000 ",2,2,"1,170",1976,"1810 Central Ave #201,  Alameda,  CA 94501",Condominium,700,19 Days on Site
+BE41056078,"$2,095,000 ",5,5,"5,745",1904,"2045 Buena Vista Ave, Alameda,  CA 94501",Single Family Residence,700,20 Days on Site
+BE41056114,"$2,385,000 ",–,–,"6,568",1920,"1203 Benton St, Alameda,  CA 94501",Residential Income,700,20 Days on Site
+BE41055843,"$849,000 ",3,2,"1,321",1972,"386 Anchor Way, Alameda,  CA 94501",Townhouse,549,23 Days on Site
+CC41055914,"$895,000 ",3,1,"1,195",1915,"2512 Buena Vista Ave, Alameda,  CA 94501",Single Family Residence,549,23 Days on Site
+BE41055759,"$1,548,000 ",–,–,"2,992",1900,"2129 Lincoln Ave., Alameda,  CA 94501",Triplex,549,24 Days on Site
+EB41055665,"$910,000 ",2,3,"1,638",2015,"2777 5th St, Alameda,  CA 94501",Condominium,353,24 Days on Site
+BE41055575,"$831,927 ",2,2,"1,102",2024,"443 Martin Mariner Ave, Alameda,  CA 94501",Condominium,365,25 Days on Site
+BE41055589,"$822,153 ",2,2,"1,066",2024,"403 Martin Mariner Ave, Alameda,  CA 94501",Condominium,365,25 Days on Site
+BE41055241,"$830,338 ",2,2,"1,138",2024,"415 Martin Mariner Ave, Alameda,  CA 94501",Condominium,365,28 Days on Site
+BE41055245,"$759,725 ",2,2,"1,066",2024,"407 Martin Mariner Ave, Alameda,  CA 94501",Condominium,365,28 Days on Site
+BE41055212,"$702,552 ",1,2,"1,000",2024,"429 Martin Mariner Ave, Alameda,  CA 94501",Condominium,365,29 Days on Site
+BE41055121,"$1,200,000 ",3,3,"1,997",2022,"538 Martin Mariner Avenue, Alameda,  CA 94501",Townhouse,444,30 Days on Site
+BE41055148,"$1,775,000 ",–,–,"3,601",1905,"2212 San Antonio, Alameda,  CA 94501",Residential Income,444,30 Days on Site
+ML81959497,"$1,398,000 ",3,2,"1,845",1965,"600 Grand St, Alameda,  CA 94501",Single Family Residence,936,30 Days on Site
+EB41054565,"$1,999,000 ",4,4,"4,272",1912,"3100 Lincoln Ave, Alameda,  CA 94501",Single Family Residence,936,31 Days on Site
+BE41054957,"$995,000 ",4,2,"2,077",1910,"1521 Pacific Ave, Alameda,  CA 94501",Single Family Residence,936,31 Days on Site
+CC41054866,"$1,595,000 ",3,3,"2,452",1969,"1229 Ballena Blvd, Alameda,  CA 94501",Townhouse,1098,31 Days on Site
+BE41058474,"$2,495,000 ",4,3,"3,045",1941,"101 Requa Road, Piedmont,  CA 94611",Single Family Residence,0,2 Days on Site
+EB41058473,"$3,300,000 ",3,3,"2,791",1949,"26 Hampton, Piedmont,  CA 94611",Single Family Residence,0,2 Days on Site
+EB41057174,"$3,495,000 ",4,4,"3,740",1940,"18 Sandringham Road, Piedmont,  CA 94611",Single Family Residence,0,4 Days on Site
+EB41057173,"$2,198,000 ",3,3,"2,376",1926,"139 Ricardo Ave, Piedmont,  CA 94611",Single Family Residence,0,9 Days on Site
+EB41057381,"$1,549,000 ",3,2,"2,030",1909,"210 Blair Ave, Piedmont,  CA 94611",Single Family Residence,0,10 Days on Site
+EB41057513,"$2,457,000 ",3,4,"2,799",1925,"2 Monte Ave, Piedmont,  CA 94611",Single Family Residence,0,10 Days on Site
+EB41057282,"$3,995,000 ",4,4,"4,804",1951,"36 Crest Road, Piedmont,  CA 94611-3304",Single Family Residence,0,11 Days on Site
+CC41056439,"$10,000,000 ",9,11,"11,986",1930,"52 Glen Alpine Road, Piedmont,  CA 94611",Single Family Residence,0,11 Days on Site
+EB41056682,"$2,298,000 ",4,3,"2,993",1937,"105 Estates Drive, Piedmont,  CA 94611",Single Family Residence,0,14 Days on Site
+EB41056791,"$2,200,000 ",5,3,"3,160",1914,"109 Mesa Avenue, Piedmont,  CA 94611",Single Family Residence,0,16 Days on Site
+EB41055913,"$2,295,000 ",4,4,"3,105",1912,"5 Blair, Piedmont,  CA 94611",Single Family Residence,0,23 Days on Site
+EB41055869,"$1,895,000 ",4,2,"2,162",1923,"1677 Grand Ave, Piedmont,  CA 94611",Single Family Residence,0,23 Days on Site
+EB41055366,"$6,495,000 ",5,7,"7,297",1915,"236 Sea View Avenue, Piedmont,  CA 94610",Single Family Residence,0,24 Days on Site
+EB41055006,"$1,899,000 ",5,4,"2,482",1912,"286 Scenic Ave, Piedmont,  CA 94611",Single Family Residence,0,31 Days on Site
+CC41054283,"$9,850,000 ",5,9,"11,630",1926,"75 Glen Alpine Rd, Piedmont,  CA 94611",Single Family Residence,0,37 Days on Site
+EB41053695,"$1,998,000 ",4,4,"2,278",1926,"602 Magnolia Avenue, Piedmont,  CA 94611",Single Family Residence,0,44 Days on Site
+EB41051447,"$4,595,000 ",5,5,"5,899",1932,"35 Muir Avenue, Piedmont,  CA 94610",Single Family Residence,0,65 Days on Site
+BE41050782,"$1,630,000 ",3,2,"1,814",1914,"1023 Harvard Rd, Piedmont,  CA 94610",Single Family Residence,0,72 Days on Site
+CC41050425,"$14,500,000 ",8,9,"11,870",1926,"395 Hampton Rd, Piedmont,  CA 94611",Single Family Residence,0,75 Days on Site
+EB41046832,"$895,000 ",–,–,–,–,"150 Scenic Ave, Piedmont,  CA 94611",Land,0,121 Days on Site
+BE41058580,"$1,055,000 ",4,2,"2,039",1965,"625 Nightingale, Livermore,  CA 94551",Single Family Residence,0,1 Day on Site
+BE41058563,"$1,875,000 ",4,3,"2,832",1997,"3958 Devon Pl, Livermore,  CA 94550",Single Family Residence,0,1 Day on Site
+BE41056731,"$1,349,000 ",5,3,"2,270",2015,"384 Misty Cir, Livermore,  CA 94550",Single Family Residence,103,1 Day on Site
+BE41057652,"$1,050,000 ",3,2,"1,200",1958,"4294 Amherst Way, Livermore,  CA 94550",Single Family Residence,103,2 Days on Site
+CC41058565,"$1,040,000 ",4,4,"1,915",2016,"2899 Patcham Cmn, Livermore,  CA 94550",Single Family Residence,129,2 Days on Site
+CC41057926,"$1,200,000 ",3,2,"1,789",1971,"372 Nadine St, Livermore,  CA 94550",Single Family Residence,129,2 Days on Site
+BE41058369,"$379,900 ",1,1,828,1974,"Murrieta Blvd #121,  Livermore,  CA 94550",Condominium,497,2 Days on Site
+ML81964104,"$988,000 ",3,2,"1,496",1970,"1912 De Vaca Way, Livermore,  CA 94550",Single Family Residence,497,3 Days on Site
+BE41057910,"$2,975,000 ",5,6,"4,443",2002,"2826 Barouni Ct, Livermore,  CA 94550",Single Family Residence,100,4 Days on Site
+BE41057990,"$935,000 ",3,3,"1,536",1990,"3850 Macgregor Cmn, Livermore,  CA 94551",Townhouse,330,4 Days on Site
+ML81963857,"$598,000 ",2,2,842,1990,"4763 Nicol Cmn #106,  Livermore,  CA 94550",Condominium,397,4 Days on Site
+CC41058139,"$1,650,000 ",6,5,"2,852",2002,"1712 Park St, Livermore,  CA 94551",Single Family Residence,397,4 Days on Site
+BE41058103,"$1,349,000 ",4,3,"2,133",1968,"1547 De Leon Way, Livermore,  CA 94550",Single Family Residence,397,4 Days on Site
+BE41058046,"$899,000 ",3,2,"1,481",1971,"5658 Firestone Road, Livermore,  CA 94551",Single Family Residence,397,4 Days on Site
+BE41058038,"$975,000 ",3,4,"1,508",2020,"897 Tranquility Circle #9,  Livermore,  CA 94551",Townhouse,415,4 Days on Site
+BE41058037,"$1,699,998 ",4,3,"2,483",1994,"4064 Emerson Dr, Livermore,  CA 94551",Single Family Residence,415,4 Days on Site
+CC41057678,"$2,398,880 ",4,4,"3,662",1991,"1540 San Remo Ct, Livermore,  CA 94550",Single Family Residence,415,4 Days on Site
+CC41058136,"$1,650,000 ",–,–,"2,852",2002,"1712 Park St, Livermore,  CA 94551",Duplex,415,4 Days on Site
+BE41057904,"$1,100,000 ",3,3,"1,749",2014,"210 Selby Ln, Livermore,  CA 94551",Single Family Residence,186,5 Days on Site
+BE41054505,"$1,199,999 ",4,2,"1,808",1966,"483 Ontario Drive, Livermore,  CA 94550",Single Family Residence,186,5 Days on Site
+BE41057947,"$450,000 ",2,2,955,1974,"1085 Murrieta Blvd #110,  Livermore,  CA 94550",Condominium,585,5 Days on Site
+ME224044168,"$1,299,000 ",4,2,"2,277",–,"15685 Kelso Rd, Livermore,  CA 94551",Single Family Residence,585,5 Days on Site
+BE41057970,"$899,000 ",–,–,"1,698",1952,"1385 Lambaren Ave, Livermore,  CA 94551",Duplex,585,5 Days on Site
+ME224044157,"$1,900,000 ",5,4,"3,517",–,"1122 Batavia, Livermore,  CA 94550",Single Family Residence,585,6 Days on Site
+BE41057571,"$649,950 ",2,2,918,1989,"1324 Chateau Cmn #108,  Livermore,  CA 94550",Condominium,399,6 Days on Site
+BE41057762,"$1,395,000 ",4,3,"2,091",1986,"5032 Erica Way, Livermore,  CA 94550",Single Family Residence,57,7 Days on Site
+BE41057444,"$899,000 ",3,1,"1,040",1955,"3921 Yale Way, Livermore,  CA 94550",Single Family Residence,57,8 Days on Site
+BE41057537,"$1,000,000 ",3,2,"1,444",1957,"2940 Kennedy Street, Livermore,  CA 94551",Single Family Residence,57,9 Days on Site
+EB41057682,"$250,000 ",2,2,"1,040",–,"716 Sundial Circle #89,  Livermore,  CA 94551",Manufactured In Park,57,9 Days on Site
+ME224042629,"$999,000 ",2,1,902,–,"623 Maple St, Livermore,  CA 94550",Single Family Residence,57,10 Days on Site
+BE41057343,"$980,000 ",2,2,"1,280",1963,"5270 Peony Dr, Livermore,  CA 94551",Single Family Residence,450,10 Days on Site
+BE41057459,"$1,800,000 ",3,1,"2,637",1920,"19019 Mines Rd, Livermore,  CA 94550",Single Family Residence,450,10 Days on Site
+BE41056984,"$1,197,000 ",4,2,"1,720",1986,"4111 Sugar Pine, Livermore,  CA 94551",Single Family Residence,79,11 Days on Site
+BE41054319,"$2,195,000 ",4,4,"2,952",2014,"3162 Lucca Cir, Livermore,  CA 94550",Single Family Residence,79,11 Days on Site
+EB41057346,"$1,150,000 ",4,2,"1,664",1958,"1363 N P St, Livermore,  CA 94551",Single Family Residence,79,11 Days on Site
+BE41057233,"$1,249,000 ",4,2,"1,302",1960,"1073 Miranda Way, Livermore,  CA 94550",Single Family Residence,79,11 Days on Site
+BE41057075,"$959,000 ",3,2,988,1972,"429 Swan Dr, Livermore,  CA 94551",Single Family Residence,79,12 Days on Site
+BE41057122,"$1,099,950 ",3,2,"1,384",1964,"434 El Caminito, Livermore,  CA 94550",Single Family Residence,79,12 Days on Site
+CC41056956,"$1,050,000 ",4,4,"1,955",2015,"2749 Patcham Cmn, Livermore,  CA 94550",Single Family Residence,128,12 Days on Site
+ML81962577,"$1,900,000 ",–,–,"3,849",1964,"2955 Ladd Ave, Livermore,  CA 94551",Residential Income,128,12 Days on Site
+BE41057048,"$1,149,000 ",5,2,"1,560",1957,"2869 Kennedy St, Livermore,  CA 94551",Single Family Residence,128,13 Days on Site
+ML81962157,"$2,999,888 ",3,2,"2,522",1968,"7033 Collier Canyon Rd, Livermore,  CA 94551",Single Family Residence,128,16 Days on Site
+BE41054229,"$1,999,999 ",4,3,"3,006",1979,"12560 Morgan Territory Rd, Livermore,  CA 94551",Single Family Residence,128,16 Days on Site
+ME224030507,"$985,000 ",3,2,"1,006",–,"1338 Aster Ln, Livermore,  CA 94551",Single Family Residence,128,17 Days on Site
+BE41056616,"$1,288,888 ",3,2,"1,760",1973,"2606 Pickfair Ln, Livermore,  CA 94551",Single Family Residence,128,17 Days on Site
+BE41056327,"$849,000 ",3,1,970,1953,"442 N I St, Livermore,  CA 94551",Single Family Residence,128,19 Days on Site
+BE41055137,"$988,000 ",3,2,"1,006",1966,"4854 Lantana Ave, Livermore,  CA 94551-1471",Single Family Residence,128,19 Days on Site
+CC41056212,"$999,000 ",–,–,–,–,"10 Storybook Ln, Livermore,  CA 94551",Land,128,19 Days on Site
+BE41055188,"$979,000 ",4,2,"1,349",1968,"2068 Buckskin Rd, Livermore,  CA 94551",Single Family Residence,128,22 Days on Site
+BE41055890,"$435,000 ",2,2,955,1974,"1087 Murrieta Blvd #128,  Livermore,  CA 94550",Condominium,581,23 Days on Site
+ML81956104,"$1,275,000 ",3,3,"1,884",2017,"2082 Rovello Loop, Livermore,  CA 94550",Single Family Residence,125,25 Days on Site
+BE41055527,"$1,079,000 ",3,3,"1,533",2002,"1752 Holly Cmn, Livermore,  CA 94550",Single Family Residence,139,25 Days on Site
+ME224035007,"$112,500 ",3,2,550,–,"6539 Southfront 5, Livermore,  CA 94551",Manufactured In Park,0,25 Days on Site
+BE41055502,"$959,500 ",3,4,"1,548",2009,"207 Heligan Ln #7,  Livermore,  CA 94551",Condominium,348,25 Days on Site
+BE41053234,"$1,898,000 ",5,4,"3,116",1992,"4033 Camrose Ave, Livermore,  CA 94551",Single Family Residence,348,26 Days on Site
+BE41055452,"$1,185,000 ",3,2,"1,175",1953,"420 Franklin Ln, Livermore,  CA 94551",Single Family Residence,348,26 Days on Site
+BE41055451,"$1,238,000 ",–,–,"1,175",1953,"420 Franklin Ln, Livermore,  CA 94551",Commercial Sale,348,26 Days on Site
+BE41055085,"$1,279,000 ",4,3,"2,243",1971,"925 Hazel St, Livermore,  CA 94550",Single Family Residence,441,30 Days on Site
+ML81960062,"$1,049,000 ",3,3,"1,529",1968,"2127 Shetland Rd, Livermore,  CA 94551",Single Family Residence,441,31 Days on Site
+ME224033432,"$1,000,000 ",–,–,–,–,"0 Hilliker, Livermore,  CA 94551",Land,0,31 Days on Site
+BE41054799,"$2,900,000 ",–,–,–,–,"727 Kalthoff Common, Livermore,  CA 94550",Land,0,32 Days on Site
+BE41053744,"$364,000 ",1,1,758,1974,"1085 Murrieta Blvd #205,  Livermore,  CA 94550",Condominium,523,37 Days on Site
+BE41053891,"$949,999 ",3,3,"1,734",2006,"1921 Depot Dr #105,  Livermore,  CA 94550",Condominium,349,38 Days on Site
+BE41052872,"$389,950 ",1,1,850,1974,"1085 Murrieta Blvd #316,  Livermore,  CA 94550",Condominium,567,52 Days on Site
+BE41052664,"$1,999,950 ",4,3,"3,252",1976,"10835 Morgan Territory Rd, Livermore,  CA 94551",Single Family Residence,567,53 Days on Site
+BE41052050,"$2,175,000 ",5,3,"3,571",1992,"4419 Edgewood Way, Livermore,  CA 94550",Single Family Residence,567,54 Days on Site
+BE41052310,"$2,999,999 ",3,3,"3,735",1984,"5184 Doolan Rd, Livermore,  CA 94551",Single Family Residence,567,57 Days on Site
+ML81949570,"$1,750,000 ",4,3,"2,916",2022,"1626 4th St, Livermore,  CA 94550",Single Family Residence,567,65 Days on Site
+ME224000942,"$1,900,000 ",–,–,–,–,"13749 Altamont Pass Road, Livermore,  CA 94550",Land,0,68 Days on Site
+EB41050814,"$427,500 ",–,–,–,–,"21810 Mines Rd, Livermore,  CA 94550",Land,0,72 Days on Site
+BA324009522,"$250,000 ",2,1,648,1999,"1937 Montecito Cir 87, Livermore,  CA 94551",Manufactured In Park,1375,73 Days on Site
+BE41050752,"$699,000 ",3,2,"1,242",1982,"3775 Carrigan Cmn, Livermore,  CA 94550",Townhouse,330,73 Days on Site
+BE41049475,"$685,000 ",2,2,947,2000,"51 Bellington Cmn #8,  Livermore,  CA 94551",Condominium,365,87 Days on Site
+CC41049309,"$4,195,000 ",5,6,"5,992",1975,"12400 Morgan Territory Rd, Livermore,  CA 94551",Single Family Residence,365,89 Days on Site
+CC41049163,"$375,000 ",1,1,758,1974,"1087 Murrieta Blvd #337,  Livermore,  CA 94550-4155",Condominium,523,93 Days on Site
+BE41043078,"$7,200,000 ",3,2,"2,424",1930,"8100 Carneal Rd, Livermore,  CA 94551",Single Family Residence,523,191 Days on Site
+BE41042800,"$475,000 ",–,–,"1,471",1987,"4749 Bennett Dr Suite E, Livermore,  CA 94551",Commercial Sale,523,193 Days on Site
+SF423922941,"$1,850,000 ",–,–,"45,000",–,"Address Is Not Disclosed, Livermore,  CA 94550",Business Opportunity,523,195 Days on Site
+BE41042698,"$2,000,000 ",–,–,"4,257",1988,"3670 Silver Oaks Way, Livermore,  CA 94550",Residential Income,523,195 Days on Site
+BE41037604,"$2,400,000 ",–,–,–,–,"18 E Greenville Rd, Livermore,  CA 94551",Land,523,249 Days on Site
+BE41037401,"$8,400,000 ",–,–,–,–,"5625 Greenville Rd, Livermore,  CA 94550",Land,523,251 Days on Site
+BE41031355,"$5,500,000 ",–,–,–,–,"1200 Wetmore Rd, Livermore,  CA 94550",Land,523,315 Days on Site
+BE41029996,"$5,500,000 ",–,–,"4,140",2015,"1200 Wetmore Rd, Livermore,  CA 94550",Commercial Sale,523,330 Days on Site
+BE41025956,"$99,000 ",–,–,–,–,"0 Mines Rd, Livermore,  CA 94551",Land,523,369 Days on Site
+ME223028389,"$5,000,000 ",–,–,–,–,"0 Reuss Rd, Livermore,  CA 94550",Land,0,391 Days on Site
+BE41010860,"$1,500,000 ",3,2,"2,800",1938,"7777 Del Valle Rd, Livermore,  CA 94550",Single Family Residence,0,577 Days on Site
+BE40896060,"$725,000 ",–,–,–,–,"2301 Concannon Blvd, Livermore,  CA 94550",Land,0,1537 Days on Site
